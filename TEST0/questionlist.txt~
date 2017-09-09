@@ -1,0 +1,288 @@
+Describe the composition, orbits, and characteristics of the Kuiper belt objects and how they were discovered.
+[0.0, 1.1, 1.2, 1.4, 2.2, 2.3, 2.4, 2.5, 2.6, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 5.2, 5.3, 5.4, 9999.0]
+===================================================
+obj =  0.0
+======= 0.0 Constellations
+     ** (tb) 2: In {\bf Figure 1} at the back of the test, which letter is closest to the Polaris?
+  ***** (tb) 3: In {\bf Figure 1} at the back of the test, which letter is closest to the star Thuban?
+      * (tb) 4: The star Thuban:
+   **** (tb) 5: In {\bf Figure 1} at the back of the test, which letter is closest to the constellation of Draco?
+x      * (tb) 6: In {\bf Figure 1} at the back of the test, which letter is closest to the constellation of  Cassiopeia?
+x      * (tb) 47: In figure 1 at the back of the test, which letter is closest to the constellation of Cepheus?
+        (tb) 48: In figure 1 at the back of the test, which letter is closest to the constellation of Ursa Major?
+      * (tb) 49: In figure 1 at the back of the test, which letter is closest to the constellation of Ursa Minor?
+===================================================
+obj =  1.1
+======= 1.1 Explain how locations are described on Earth using geographic regions, latitude/longitude, and local directions.
+        (tb) 76: Latitude and longitude measure:
+x        (cl) 170: Latitude and longitude measure:
+===================================================
+obj =  1.2
+======= 1.2 Summarize what constellations are and describe how they are used to identify patterns of stars and to divide the sky into “geographic” regions.
+      * (tb) 108: How many constellations cover surface of the Celestial Sphere?
+        (hw) 115: The stars in a constellation are physically close to one another.
+        (hw) 122: The celestial sphere is divided into 88 modern constellations.
+x        (hw) 131: Constellations are close clusters of stars, all at about the same distance from the Sun.
+===================================================
+obj =  1.4
+======= 1.4 Describe the three different ways we locate objects in the sky - constellations, altitude/azimuth, and right ascension/declination.
+      * (tb) 77: Altitude and azimuth measure:
+     ** (tb) 78: Right ascension and declination measure:
+      * (hw) 110: The closest terrestrial analog to hours of right ascension is angle of longitude.
+x        (hw) 118: From the horizon to the observer's zenith is an angle of...
+        (hw) 129: Latitude and right ascension are coordinate systems used to find objects on the celestial sphere.
+        (hw) 130: In the sky, declination is measured in degrees north or south of the celestial equator.
+        (cl) 171: Altitude and azimuth measure:
+      * (cl) 172: Right ascension and declination measure:
+        (tb) 206: A star's altitude is:
+        (tb) 207: A star's azimuth is:
+        (tb) 208: A star's declination is:
+===================================================
+obj =  2.2
+======= 2.2 Explain how an observer’s location on Earth where the observer sees the star Polaris.
+     ** (tb) 9: Late one night, you call up a friend who lives 200 mile directly North of {\bf Murfreesboro}.   You both look North and see the star Polaris.  Your friend will observe that Polaris is:
+        (tb) 209: Late one night, you call up a friend who lives 200 mile directly South of {\bf Murfreesboro}.   You both look North and see the star Polaris.  Your friend will observe that Polaris is:
+===================================================
+obj =  2.3
+======= 2.3 Describe how the Earth rotates.
+        (cl) 173: As viewed from above the North Pole, which direction does the Earth rotate?
+===================================================
+obj =  2.4
+======= 2.4 Predict how the Sun and stars as the rise and set as seen from Murfreesboro.
+        (tb) 84: We now know that daily motion in the sky is caused by the \underline{\hspace{0.5in}}.
+x        (tb) 91: For this question, assume that {\bf Figure 3} shows the position of the Sun in {\bf Murfreesboro} about an hour before Sunset.   Which letter is closest to where the Sun will be in one hour?
+      * (tb) 92: {\bf For this question only,} assume that {\bf Figure 3} shows the position of the Sun in {\bf Murfreesboro} about an hour before Sunset.   Which letter is closest to where the Sun was one hour ago?
+x      * (cl) 174: Where will the Sun be in two hours?
+        (cl) 175: Where will the Sun be at 7 am on December 28?
+        (cl) 176: Where will the Sun be at 9am on December 28?
+        (cl) 179: Which direction will the Sun appear to move in the next hour?
+===================================================
+obj =  2.5
+======= 2.5 Summarize the connection between time and longitude.
+ ****** (tb) 10: Late one night, you call up a friend who lives 200 miles directly West of {\bf Murfreesboro}.   You both go outside to look at the Moon.   You see the first quarter Moon is setting over the Western horizon.   Your friend will see that the Moon is:
+        (tb) 95: {\bf For this question only,} assume that {\bf Figure 3} shows the position of the Sun in {\bf Murfreesboro} about an hour after Sunrise.   Which letter is closest to where the Sun was one hour ago?
+===================================================
+obj =  2.6
+======= 2.6 Explain how the Earth’s rotation affects the view of the stars around Polaris.
+     ** (tb) 51: Circumpolar stars
+        (cl) 177: Which star will Ursa Major appear to circle every day?
+        (cl) 180: Which star will the Sun appear to circle around every day?
+===================================================
+obj =  3.1
+======= 3.1 Describe how stars move around Polaris as seen from different latitudes.
+        (tb) 1: In {\bf Figure 1} at the back of the test, which direction will the stars near letter (d) move if you viewed the sky one hour later.
+    *** (tb) 63: Looking North from {\bf Murfreesboro}, stars appear to rotate counter-clockwise around the star Polaris.
+     ** (tb) 86: In {\bf Figure 1} at the back of the test, which direction will the stars near letter (e) move if you viewed the sky one hour later.
+      * (tb) 98: In {\bf Figure 1} at the back of the test, which direction will the stars near letter (A) move if you viewed the sky one hour later.
+     ** (tb) 109: In {\bf Figure 1}, over the next few hours the constellation near the letter {\bf A} will move:
+        (cl) 178: Which direction will Ursa Major appear to move in the next hour?
+===================================================
+obj =  3.2
+======= 3.2 Predict the motion of the Sun and the stars as they rise and set as seen from different latitudes.
+    *** (tb) 7: If you are looking East from {\bf Murfreesboro} and the Moon is near the horizon, over the next few hours, the Moon will move:
+      * (tb) 8: If you are watching the Sun set in {\bf Murfreesboro}, the direction it travels over the Western horizon is
+      * (tb) 50: If you are on the equator and see the Sun to the East on the Horizon, it will rise
+      * (tb) 93: For this question, assume that {\bf Figure 3} shows the position of the Sun at the {\bf Equator} about an hour before Sunset.   Which letter is closest to where the Sun will be in one hour?
+        (tb) 94: For this question, assume that {\bf Figure 3} shows the position of the Sun at the {\bf Equator} about an hour before Sunset.   Which letter is closest to where the Sun was one hour ago?
+        (tb) 96: {\bf For this question only,} assume that {\bf Figure 3} shows the position of the Sun at the {\bf Equator} about an hour after Sunrise.   Which letter is closest to where the Sun will be in one hour?
+      * (tb) 97: For this question, assume that {\bf Figure 3} shows the position of the Sun at the {\bf Equator} about an hour after Sunrise.   Which letter is closest to where the Sun was \underline{\bf one hour ago}?
+===================================================
+obj =  3.3
+======= 3.3 Describe the Celestial sphere, the North Celestial Pole, and the Celestial Equator.
+        (tb) 104: The North Celestial Pole is:
+        (tb) 107: The  Celestial Equator is:
+      * (hw) 114: Into how many constellations is the celestial sphere divided?
+===================================================
+obj =  3.4
+======= 3.4 Interpret the shapes of star trails to determine the observer’s location on Earth and the direction they are facing.
+        (cl) 181: Which direction are we looking?
+        (cl) 182: Over a few hours, which direction will the stars move in this region of the sky?
+        (cl) 183: This picture of stars setting in the West was taken:
+        (cl) 184: This picture of stars setting in the West was taken:
+      * (pt) 198: Imagine your camera is pointing at Polaris the North Star.  If you leave the shutter open for 6 hours, what will the photo look like?
+===================================================
+obj =  3.5
+======= 3.5 Distinguish between annual motion and daily motion, and describe how they differ from each other.
+        (tb) 85: We now know that the annual motion in the sky is caused by \underline{\hspace{0.5in}}.
+      * (tb) 87: In {\bf Figure 2}, the position of the Sun is shown for January 28 at about noon as viewed from {\bf Murfreesboro}.  The stars are shown even though they wouldn't normally be visible.   In this image, the Sun is in the constellation of Capricornus.  Which {\bf constellation} will the Sun be in two hours?
+     ** (tb) 88: In {\bf Figure 2}, the position of the Sun is shown for January 28 at about noon as viewed from {\bf Murfreesboro}.  The stars are shown even though they wouldn't normally be visible.  Which constellation will the Sun be in two weeks from now?
+        (tb) 89: the position of the Sun is shown for January 28 at about noon as viewed from {\bf Murfreesboro}.  The stars are shown even though they wouldn't normally be visible. where was the Sun be two weeks ago?
+        (tb) 90: In figure 2, the position of the Sun is shown for January 28 at about noon as viewed from {\bf Murfreesboro}.  The stars are shown even though they wouldn't normally be visible.  Which location will be the first to set below the horizon in Figure 2?
+     ** (tb) 102: Over one day, the Sun's position has
+      * (tb) 103: Over one day, the Sun's positions changes because of the daily rotation of the Earth and the annual revolution of Earth in its orbit around the Sun.
+        (hw) 124: In the summer we observe different constellations than in the winter. This is because \underline{\hspace{0.5in}}
+===================================================
+obj =  3.6
+======= 3.6 Related the tilt of the Earth’s axis (relative to its orbit) to seasonal changes in the Sun’s motion and the weather.
+        (tb) 52: The seasonal changes are caused by the:
+      * (tb) 53: The main reason winter is cooler than summer is:
+        (tb) 71: During Winter, the Sun is higher in the sky and but visible for fewer hours than in Summer.
+        (cl) 185: What is the main reason is it colder in winter than in summer?
+      * (pt) 200: Which of the following best describes the cause for the seasons here on Earth?
+        (tb) 205: The winter is colder than summer because:
+===================================================
+obj =  4.1
+======= 4.1 Distinguish between sidereal time and solar time.
+      * (tb) 99: A sidereal day is:
+      * (tb) 100: If you look at the sky from the same location exactly one sidereal day later, you will find that:
+        (hw) 113: You note that a particular star is directly overhead. It will be directly overhead again in:
+        (hw) 116: The solar day is longer than the sidereal day.
+        (hw) 132: The sidereal day is determined by the Earth's rotation with respect to the stars.
+        (hw) 133: The fact that the Earth has moved along its orbit in the time it took to rotate once is the reason for...
+===================================================
+obj =  4.2
+======= 4.2 Explain the changes in the observed position of the Sun caused by annual motion.
+        (hw) 120: The twelve constellations the solar system bodies move through are the...
+      * (hw) 125: Night and day have approximately equal length at what time or times of the year?
+      * (hw) 135: In the summer we observe different constellations than in the winter. This is because of \underline{\hspace{0.5in}}
+===================================================
+obj =  4.3
+======= 4.3 Identify that precession of the equinoxes causes shifts in the seasons over the centuries.
+        (hw) 117: The seasons are caused by the precession of Earth's axis.
+        (hw) 119: The 26,000 year cycle that changes the poles and equinoxes is called...
+        (hw) 134: Polaris will not always be the pole star because of:
+        (cl) 186: Which constellation is the Sun in on December 1
+===================================================
+obj =  4.4
+======= 4.4 Describe what causes the phases of the moon.
+      * (tb) 59: The Moon goes through its phases because:
+     ** (tb) 61: A full moon happens when there is
+      * (tb) 62: A new moon happens when there is
+        (tb) 101: What fraction of the {\bf \underline{entire}} surface of the Moon is lit by the Sun during its Waxing Crescent phase?
+        (tb) 106: How often do we have a Full Moon?
+        (cl) 187: What fraction of the entire Earth’s surface is lit by sunlight at any given time?
+        (cl) 188: What fraction of the entire Moon’s surface is lit by sunlight at any given time?
+        (pt) 199: During the full moon phase, how much of the Moon’s {\bf total} surface is being illuminated by sunlight?
+===================================================
+obj =  4.5
+======= 4.5 Illustrate the sequence of moon phases and how orbital positions are related to each phase.
+        (tb) 37: In {\bf Figure 2} at the back of the test, which location most closely corresponds to the Waxing Crescent moon?
+     ** (tb) 38: In {\bf Figure 2} at the back of the test, which location most closely corresponds to the First Quarter moon?
+     ** (tb) 39: In {\bf Figure 2} at the back of the test, which location most closely corresponds to the Full moon?
+        (tb) 40: In {\bf Figure 2} at the back of the test, the image on the right most closely corresponds to point \rule{10mm}{0.4pt} on the phase diagram.
+   **** (tb) 60: First quarter moon happens when there is
+        (tb) 70: The next Moon phase after Waxing Gibbous is the
+        (tb) 80: Waxing phases occur when the Moon is traveling between
+        (tb) 81: Waning phases occur when the Moon is traveling between
+        (hw) 112: When the Moon is directly opposite the Sun in the sky, its phase is...
+        (hw) 128: The interval from new Moon to first quarter is about a(n)...
+        (hw) 149: From full moon to third quarter moon takes about a week.
+      * (hw) 150: Eighteen days past new moon, the Moon's phase is waning gibbous.
+        (hw) 152: If the Moon appears half lit, and is almost overhead about 6:00 AM, its phase is...
+        (hw) 155: The interval from new Moon to first quarter is about a(n)...
+        (cl) 189: Which describes the alignment for a FULL moon?
+        (cl) 190: Which describes the alignment for a NEW moon?
+        (cl) 191: Waxing phases occur when:
+        (cl) 192: How long does it take for the Moon to orbit the Earth?
+        (cl) 195: In Figure 2, which letter shows the location of the Waxing Crescent Moon?
+        (cl) 196: How long does it take to go from the New Moon to the Third Quarter?
+        (cl) 203: How long does it take to go from the First Quarter to the Full Moon?
+        (cl) 204: Which letter shows the location of the Waning Gibbous Moon?
+===================================================
+obj =  4.6
+======= 4.6 Explain why eclipses don’t occur every month and why solar eclipses are less commonly observed than lunar eclipses.
+     ** (tb) 41: If the Moon was larger in diameter, the number of solar
+      * (tb) 64: The next solar eclipse is scheduled to occur in 2159.
+        (tb) 65: The reason we don't have a solar eclipse every month is because:
+        (tb) 74: Solar eclipses can only happen at:
+        (tb) 75: Lunar eclipses can only happen at:
+        (hw) 136: In the Northern Hemisphere, it is colder in the winter than in the summer because \underline{\hspace{0.5in}}
+        (hw) 151: In an annular eclipse,...
+        (hw) 153: A solar eclipse can only happen during a...
+      * (hw) 154: What will occur when the full moon is on the ecliptic?
+        (cl) 193: When can a total solar eclipse take place?
+        (cl) 194: Why do phases of the moon occur?
+        (pt) 202: How often does the “New Moon” phase occur?
+===================================================
+obj =  5.2
+======= 5.2 Discuss why the Ancient Greeks used epicycles to describe planetary motion.
+        (tb) 23: In the Geocentric Model of the solar system, the ancient Greeks believed that the retrograde motion of Mars was caused by:
+     ** (tb) 82: In the Geocentric model of the solar system, the daily motion of the Sun is caused by:
+      * (tb) 105: Epicycles were created by the Ancient Greeks to explain the:
+        (hw) 156: How did Copernicus' model explain the retrograde motions of the planets?
+        (hw) 157: How did Ptolemy's model explain the retrograde motions of the planets?
+        (cl) 197: How does the geocentric model account for day and night?
+        (tb) 210: In the {\bf Heliocentric} model of the solar system, the daily motion of the Sun is caused by:
+        (tb) 211: In the {\bf Heliocentric} model of the solar system, the daily motion of the Sun is caused by:
+===================================================
+obj =  5.3
+======= 5.3 Describe the basic features of the heliocentric model by Copernicus and distinguish it from the model created by Kepler and Newton.
+     ** (tb) 11: The principle contribution that Copernicus made in the Copernican revolution was:
+    *** (tb) 14: The principle contribution that Newton made in the Copernican revolution was:
+     ** (tb) 15: Since the force of gravity is strongest when a planet is closest to the Sun, planets:
+     ** (tb) 19: Kepler discovered his laws of planetary motion using:
+        (tb) 20: Kepler was the first person to suggest that planets
+      * (tb) 21: Using the Heliocentric model of the solar system, we now know that the retrograde motion of Mars is caused by:
+   **** (tb) 22: We now know that the retrograde motion of Jupiter is caused by:
+   **** (tb) 24: According to Kepler's 2nd law, the orbits of planets:
+        (tb) 42: The first person to suggest that planets revolved around the Sun was:
+      * (tb) 45: The person suggested planets follow elliptical orbits with the Sun at one focus was:
+      * (tb) 46: The person explained that elliptical orbits in terms of physical laws was:
+   **** (tb) 66: In the original Copernican Heliocentric model, planets
+      * (tb) 67: In the Modern Heliocentric model created by Kepler, planets
+        (tb) 72: If the Sun is at one focus of the Earth’s elliptical orbit, what is located at the other focus?
+      * (tb) 73: Planets move faster when they are close to the Sun because
+        (hw) 141: Kepler's first law worked, where Copernicus' original heliocentric model failed, because Kepler described the orbits as...
+        (hw) 142: The place in a planet's orbit that is closest to the Sun is called...
+        (hw) 143: The force of gravity varies with...
+        (hw) 144: How much stronger is the gravitational pull of the Sun on Earth, at 1 AU, than it is on Saturn at 10 AU?
+        (hw) 145: If the distance between two asteroids is doubled, the gravitational force they exert on each other will...
+        (hw) 146: A planet (or comet) will speed up as it approaches the Sun...
+        (hw) 147: According to Kepler's third law, if you know the planet's orbital period, you can find its average distance from the Sun.
+        (hw) 159: Copernicus believed the Earth was the center of all celestial motion.
+        (hw) 160: According to Copernicus, retrograde motion for Venus must occur around...
+        (hw) 165: Kepler found the orbits of planets are ellipses, not circles.
+        (hw) 166: According to Newton, planets orbit in ellipses with what at the two foci?
+        (hw) 167: In what way did Newton improve Kepler's laws?
+        (pt) 201: Kepler’s second law says ``a line joining a planet and the Sun sweeps out equal areas in equal amounts of time.'' Which of the following statements means nearly the same thing?
+===================================================
+obj =  5.4
+======= 5.4 Discuss the key observations by Galileo and Brahe and explain their significance.
+    *** (tb) 12: The principle contribution that Galileo made in the Copernican revolution was:
+      * (tb) 13: The principle contribution that Tycho Brahe made in the Copernican revolution was:
+     ** (tb) 16: Galileo observed moons orbiting around Jupiter.    This observation challenged conventional Geocentric view of the solar system because the moons of Jupiter:
+        (tb) 17: The easiest explanation for the changing phases and changing size of Venus as seen through a telescope is:
+   **** (tb) 18: When Galileo saw craters on the Moon, it provided evidence that the Moon
+      * (tb) 43: The first person observe the phases of Venus was:
+      * (tb) 44: The person who is did the best naked eye observations of planetary positions was:
+        (hw) 140: Tycho Brahe's contribution to Kepler's Laws of Planetary Motion were...
+        (hw) 161: Which of the following was NOT one of the discoveries made by Galileo?
+        (hw) 162: Galileo's observations of the phases of Venus  \underline{\hspace{0.5in}}.
+        (hw) 163: Which of these was NOT seen telescopically by Galileo?
+        (hw) 164: Galileo found the rotation period of the Sun was approximately...
+        (hw) 168: What was the greatest contribution of Tycho Brahe to astronomy?
+===================================================
+obj =  9999.0
+======= 9999.0 Other questions
+        (tb) 25: The size of the Arctic Polar ice cap has
+      * (tb) 26: One of the first papers on Global warming was published in
+        (tb) 27: What would happen if we had no Greenhouse effect?
+      * (tb) 28: Earthquakes can be used to probe the structure inside the Earth.
+      * (tb) 29: The polar ice cap in September has dropped to 1/4 of its volume compared to its size in September only a decade ago.
+        (tb) 30: Mountains on the moon are caused by plate tectonics.
+        (tb) 31: Maria are found mostly on the far side of the Moon.
+      * (tb) 32: Lunar eclipses happen more often than solar eclipses because the Earth is much larger in diameter than the Moon.
+        (tb) 33: Most of the geological features on the Moon are much older than those on the Earth.
+        (tb) 34: Erosion of geological features happens much faster on the Moon than on the Earth.
+      * (tb) 35: Global warming is caused by the depletion  of the ozone layer.
+      * (tb) 36: From Earth, we can't observe the far side of the Moon.
+  ***** (tb) 54: When was the first paper the predicted industrial activity would increase the average global temperature published?
+        (tb) 55: What would happen if we had no Greenhouse effect?
+      * (tb) 56: The geologic features we see on the Earth are mainly created by:
+      * (tb) 57: The geologic features we see on the Moon are mainly created by:
+        (tb) 58: The hole in the Ozone near the South Pole was mainly caused by:
+    *** (tb) 68: The surface of the Moon is much \rule{10mm}{0.4pt}  than Earth's surface.
+        (tb) 69: Because the moon's rotation is tidally locked with its revolution so we only see one side of the moon.
+     ** (tb) 79: Maria are
+     ** (tb) 83: The Moon orbits at a distance about \underline{\hspace{0.5in}} times larger than the diameter of Earth.
+        (hw) 111: In the scientific method, it is not necessary to test your theory.
+        (hw) 121: The parallax shift for all stars is very small.
+        (hw) 123: Right ascension in the sky is very similar to latitude on the Earth.
+        (hw) 126: What physical property of Earth gives rise to the seasons?
+        (hw) 127: The star Thuban in Draco...
+        (hw) 137: From Earth, the Sun and Moon have about the same angular diameter.
+        (hw) 138: What is true of the Moon's orbital and rotational periods?
+        (hw) 139: The Moon's near side always faces Earth due to...
+        (hw) 148: The smallest high tides occur when the Moon phase is...
+        (hw) 158: Copernicus proposed a heliocentric model for the solar system primarily because \underline{\hspace{0.5in}}
+        (hw) 169: An Astronomical Unit (AU) is \underline{\hspace{0.5in}}

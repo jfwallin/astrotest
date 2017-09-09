@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<answerkey name="Astro 1030 - Exam \#5" correctvalue="1" incorrectvalue="0"> 
+        <versions count="3">
+                <version code="1">
+                        <questions count="7">
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="2" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>B</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="3" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>A</answer>
+                                        </answers>
+                                </question>
+                        </questions>
+                </version>
+                <version code="2">
+                        <questions count="7">
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>A</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="3" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>A</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="2" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>B</answer>
+                                        </answers>
+                                </question>
+                        </questions>
+                </version>
+                <version code="3">
+                        <questions count="7">
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>D</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="2" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>B</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="3" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>A</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                        </questions>
+                </version>
+                <version code="4">
+                        <questions count="7">
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="3" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>A</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>C</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="5" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>E</answer>
+                                        </answers>
+                                </question>
+                               <question type="Q" maxresponse="2" correctvalue="1" incorrectvalue="0">
+                                        <answers count="1">
+                                                <answer>B</answer>
+                                        </answers>
+                                </question>
+                        </questions>
+                </version>
+        </versions>
+</answerkey>

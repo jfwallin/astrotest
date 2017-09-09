@@ -1,0 +1,236 @@
+L01: Students will be able to:
+1.	Explain how locations are described on Earth using geographic regions, latitude/longitude, and local directions.
+2.	Summarize what constellations are and describe how they are used to identify patterns of stars and to divide the sky into “geographic” regions.
+3.	Explain how the celestial sphere is used to describe the positions of stars in the sky.
+4.	Describe the three different ways we locate objects in the sky - constellations, altitude/azimuth, and right ascension/declination.    
+
+L02:  Students will be able to:
+1.	Relate how changing the latitude of an observer affects the altitude and azimuth of stars in the sky.   
+2.	Explain how an observer’s location on Earth where the observer sees the star Polaris.
+3.	Describe how the Earth rotates.
+4.	Predict how the Sun and stars as the rise and set as seen from Murfreesboro.
+5.	Summarize the connection between time and longitude.
+6.	Explain how the Earth’s rotation affects the view of the stars around Polaris.
+
+L03: Students will be able to:
+1.	Describe how stars move around Polaris as seen from different latitudes.
+2.	Predict the motion of the Sun and the stars as they rise and set as seen from different latitudes.
+3.	Describe the Celestial sphere, the North Celestial Pole, and the Celestial Equator.
+4.	Interpret the shapes of star trails to determine the observer’s location on Earth and the direction they are facing.
+5.	Distinguish between annual motion and daily motion, and describe how they differ from each other.
+6.	Related the tilt of the Earth’s axis (relative to its orbit) to seasonal changes in the Sun’s motion and the weather.
+
+L04: Students will be able to:
+1.	Distinguish between sidereal time and solar time. 
+2.	Explain the changes in the observed position of the Sun caused by annual motion.
+3.	Identify that precession of the equinoxes causes shifts in the seasons over the centuries.
+4.	Describe what causes the phases of the moon.
+5.	Illustrate the sequence of moon phases and how orbital positions are related to each phase.
+6.	Explain why eclipses don’t occur every month and why solar eclipses are less commonly observed than lunar eclipses.
+
+L05: Students will be able to:
+1.	Describe the apparent motion of the planets and discuss why this motion appears to be so much more complex than other celestial objects.
+2.	Discuss why the Ancient Greeks used epicycles to describe planetary motion.
+3.	Describe the basic features of the heliocentric model by Copernicus and distinguish it from the model created by Kepler and Newton.
+4.	Discuss the key observations by Galileo and Brahe and explain their significance.
+ 
+L07: Students will be able to:
+1.	Describe how the atmosphere affects the temperature and surface features on Earth, and how changes in the atmosphere affect the climate.
+2.	Explain the internal structure of the Earth and plate tectonics have formed the continents and mountains on Earth.
+3.	Describe how the Earth’s magnetic field is created.
+4.	Contrast how and why the surface features on the moon, its atmosphere and its magnetic field are different than those on the Earth.
+5.	Explain how tides are caused by differences in the gravitational force that is felt across a body.
+
+L08: Students will be able to:
+1.	Describe the geological forces that drive the formation of surface features on the terrestrial planets and how different conditions have lead to different surface features on the planets.
+2.	Explain how the rotation rates of planets and the size of the core affect the formation of magnetic fields.
+3.	Explain how temperature, surface gravity, atomic weight of gases, and magnetic fields affect atmospheric composition and density.
+4.	Be able to describe the geologies, rotations, surface temperatures, atmospheres, magnetic fields, and unusual features of each of the terrestrial planets.
+
+L09: Students will be able to:
+1.	Analyze how molecular weight, surface gravity and planetary temperature determine the composition of a planet’s atmosphere.
+2.	Summarize the bulk properties of the Jovian planets, including their rotation rates, masses, magnetic fields, compositions, sizes, rings, and colors.
+3.	Explain the causes for the similarities and differences between the Jovian planets.
+4.	Explain the similarities and differences between Jovian and Terrestrial planets.
+
+L10: Students will be able to:
+1.	Describe how the Uranus, Neptune and Pluto were discovered.
+2.	Discuss the characteristics and unique features of the larger moons in the solar system, including the Galilean moons of Jupiter, Titan, Enceladus, Triton, and Mimas.
+3.	Explain how planetary rings are formed and describe the characteristics of the rings around the Jovian planets. 
+
+L11: Students will be able to:
+1.	Describe the composition, orbits, and characteristics of the Kuiper belt objects and how they were discovered.
+2.	Differentiate between the asteroid belt and the Kuiper belt and list the characteristics of the bodies in these parts of our solar system.
+3.	Explain what meteors are, and discuss the threat of meteor impacts on Earth.
+4.	Discuss where comets come from, describe their compositions, and explain why they are rarely seen but sometimes visible to the naked eye. 
+5.	List the basic steps and physical processes that caused the formation of the solar system.
+ 
+L13: Students will be able to:
+1.	Describe why the Sun has a visible surface when it is made out of gas.
+2.	Explain what a self-regulating system is, and how this is related to hydrostatic equilibrium.
+3.	List the layers of the Sun’s atmosphere and interior.
+4.	Discuss how the Sun’s magnetic field is related to Sunspots.
+5.	Describe the Sunspot cycle 
+6.	List and contrast the types of Solar Storms and their impact on the Earth.
+
+L14: Students will be able to
+1.	Distinguish between luminosity and brightness.
+2.	Describe how size, surface temperature, surface area and luminosity are related to each other.
+3.	Analyze how a star’s surface temperature, size, and distance influence its luminosity and apparent brightness.
+4.	Interpret how the color of star is related to its surface temperature. 
+
+L15: Students will be able to:
+1.	Understand the concept of parallax and how it is related to distance.
+2.	List and describe the relationships between the various regions of the electromagnetic spectrum.
+3.	Describe the differences in the colors of the rainbow and how they are related to white light.
+4.	Make use of Kirchhoff’s laws to predict they type of spectra we would observe under different conditions.
+5.	Relate associate spectral types, stellar colors and stellar surface temperature.
+
+L16: Students will be able to:
+1.	Identify the axis and major regions of interest in the HR diagram.
+2.	Compare the characteristics of stars on the HR diagram, including their luminosity, surface temperature, and size.
+3.	Infer the masses of stars on the main sequence from their spectral types, and understand that this relationship only applies to stars on the main sequence.
+
+L17: Students will be able to:
+1.	Relate the masses of stars to their lifetimes on the main sequence and be able to describe the underlying reasons of why mass affects the lifetime of stars.
+2.	Explain the reasons why low mass stars are so much more common that high mass stars.
+3.	Describe how energy is produced in the Sun.
+4.	Explain how energy produced in the Sun’s core reaches the Sun’s surface through convection and radiation.
+5.	Describe how helioseismology and solar neutrino measurements each provide a measurement of the conditions in the Sun’s interior.
+6.	Understand the basis for apparent and absolute magnitudes.
+
+L19: Students will be able to:
+1.	Distinguish between emission, reflection, and dark nebula.
+2.	Understand how the mass of stars is related to their luminosity and lifetime on the main sequence.
+3.	Name and describe the stages a gas cloud goes through as it transforms into a a cluster of main sequence stars.
+4.	Describe the power source and characteristics of protostars.
+
+L20: Students will be able to:
+1.	Describe the physical and observational differences between open and globular clusters.
+2.	Describe how HR diagrams of clusters change as the cluster ages.
+3.	How why stars leave the main sequence and how their internal structure changes as they evolve.
+4.	Name and describe each of the major stages a star like the sun goes through after leaving the main sequence until it becomes a white dwarf.
+5.	Draw diagrams of the internal structure of each of the post-main sequence stages that associate each stage with the internal energy sources.
+
+L21: Students will be able to:
+1.	Describe the differences between Nova, Supernova, and the formation of Planetary Nebula.
+2.	Explain conditions that cause Nova, Supernova Type I, Supernova Type II, and Hyper-nova.  
+3.	Describe the how we find supernova in other galaxies as well as supernova remnants in our own galaxy.
+4.	List and describe some of the more famous supernova remnants from our own galaxy.
+5.	Understand how the cycle of stellar evolution has changed the composition of our galaxy.
+
+L22: Students will be able to:
+1.	Explain the differences between Nova, type I Supernova, and type II Supernova, including the conditions that lead to these explosions.
+2.	Describe the physical characteristics and the formation paths of white dwarfs, neutron stars, and black holes.
+3.	Describe how pulsars work and how they are formed.
+4.	Explain how pulsars are formed and why they are not created in all Supernova.
+
+L23: Students will be able to:
+1.	Describe the masses of the main sequence stars that eventually become white dwarfs, neutron stars, and black holes.
+2.	Discuss how gamma-ray bursts and Hypernova are associated with the formation of black holes.
+3.	Analyze how time is affected for observers in gravitational fields.
+4.	Connect the theories of special and general relativity to technology used in their everyday lives.
+5.	Explain the observational evidence for black holes.
+
+L25: Students will be able to:
+1.	Describe the size, shape and characteristics of the Milky Way Galaxy and why it looks so differently when it is viewed from Earth.
+2.	Summarize how (and why) RR Lyra and Cepheid variables can be used to determine interstellar distances and map our galaxy.
+3.	Contrast how the ages and orbits of halo, disk and bulge stars differ, and relate how this helps us understand how the galaxy formed.
+4.	Describe how the structures in the bulge, disk and halo are associated with the formation of the Milky Way.
+5.	Illustrate how density waves create spiral arms.
+
+L26: Students will be able to:
+1.	Identify the evidence we have for their being a supermassive black hole in the center of our galaxy.
+2.	Describe the relative sizes of protons, the solar system, the galaxy, and clusters of galaxies.
+3.	Identify and describe the differences between spiral, barred spirals, elliptical and irregular galaxies.
+4.	Understand the role the volunteers can play in helping scientists classify galaxies and solve scientific problems.
+
+L27: Students will be able to:
+1.	Discuss the distribution of galaxies in space, including the separation distances between galaxies and clusters of galaxies.
+2.	Explain how Doppler shift can be used determine the internal rotation, local orbits and recessional velocity of galaxies.
+3.	Describe what a rotation curve is and explain how it is used to determine the mass of a galaxy.
+4.	Describe Hubble’s law.
+
+L28: Students will be able to:
+1.	Analyze how changing the orbital distance and mass will affect the strength of gravity and speed of an orbiting body.
+2.	Explain why rotation curves lead us to conclude that galaxies contain a great deal of invisible mass in their outer halos.
+3.	Explain how orbits within galaxy clusters, observations of hot gas in galaxies, and gravitational lensing measurements all lead use to the conclusion that most of the mass of a galaxy is made of dark matter.
+4.	Describe why we conclude that dark matter is not made of stars, gas, or dust and why it is probably not made of ordinary atoms.
+
+L29: Students will be able to:
+1.	Describe the characteristics of clusters of galaxies.
+2.	Discuss the differences between normal and active galaxies, and describe the power source of active galaxies.
+3.	Explain what happens when galaxies collide and merge and discuss how common this is. 
+4.	Explain how galaxies have merged and evolved over the history of the universe.
+
+L31: Students will be able to:
+1.	Describe the structures we see on the largest scales in the universe and the scales they encompass.
+2.	Define the terms Isotropic and Homogeneous and how these terms apply to the universe.
+3.	Explain how Olber’s paradox leads us to conclude that the universe is not infinitely old, infinitely large, and unchanging.
+4.	Apply Hubble’s law to determine the distances or redshifts of galaxies.
+5.	Apply Hubble’s law to determine the distance or red shift velocity for a distant galaxy. 
+6.	Explain why we think the universe had a beginning based on Hubble’s law.
+7.	Explain how we determine the Age of the Universe using the Hubble constant.
+
+L32: Students will be able to:
+1.	Expanding the difference between space expanding and galaxies moving away from each other. 
+2.	Discuss the history and scientific basis of the big bang theory.
+3.	Apply the idea of critical density to determine if the universe is dynamically open, closed, or flat.
+4.	Open, Closed, Flat Dynamics.
+5.	Describe what determines the fate of the universe.
+6.	Explain how the universe can be infinitely large but still have a finite age.
+
+L33: Students will be able to:
+1.	Explain how look back time allows us to look at young galaxies and the universe when it was younger.
+2.	Discuss the horizon of the universe and how it limits what we can see.
+3.	Explain why we believe the universe was hotter in the past.
+4.	Describe the origin and discovery of the 3k background radiation.
+
+L34: Students will be able to:
+1.	Describe how the accuracy of measurements of cosmological parameters including Hubble’s constant have changed over the last decades.
+2.	Explain how tiny temperature differences seen in the COBE/WMAP data are tied to the formation of galaxies and large-scale structure.
+3.	Discuss the difference between cosmic geometry and cosmic dynamics.
+4.	Explain how dark energy was discovered, how it is measured, and the role it plays in cosmic evolution 
+5.	Describe the composition of the universe
+
+L35: Students will be able to:
+1.	Explain the effect Dark Energy has on Hubble’s law and how it was discovered.
+2.	Describe Epoch of Nucleosynthesis and how we experimentally test our understanding of this period.
+3.	Discuss the Epoch of Inflation including recent experimental results and their scientific significance.
+
+L37: Students will be able to:
+1.	List the characteristics of life.
+2.	Describe the role the big bang and stellar evolution had in creating the elements.
+3.	Describe the formation of the planets in the solar system.
+4.	Discuss the processes that form complex chemical molecules and where they are found.
+5.	Describe the basic biochemistry for life on Earth and how it is similar to molecules found elsewhere.
+6.	Explain the basic function of DNA, proteins, and enzymes in living organisms.
+7.	Describe the variety of conditions where life has been found on Earth.
+
+L38: Students will be able to:
+1.	Place the cosmic events in order from the Big Bang to the current era.
+2.	Distinguish between Prokaryotic and Eukaryotic cells and when they arose on Earth.
+3.	List the major stages and approximate timeline for the evolution of life on Earth.
+4.	Describe the timeline for life evolving on Earth.
+5.	Distinguish between intelligence, civilization, and technology.
+
+L39: Students will be able to:
+1.	Describe the different kinds of early speculation about life in the Universe.
+2.	Discuss the search for life on Mars from Lowell to the Mariner missions.
+3.	Explain the results of the Viking Mission, ALH84001, and the new results from the Curiosity Rover.
+4.	List other places in the solar system where life may have evolved and the conditions that are associated with each of these places.
+
+L40: Students will be able to:
+1.	Describe the two methods used for searching for planets that are orbiting around other stars.
+2.	Explain how the planets we see around other stars are different than those we see in our solar system.
+3.	Discuss the Habitability Zone and how that is related to life in the Universe.
+4.	Describe ways we can detect life on planets orbiting around other stars.
+5.	Discuss the Drake equation and the factors that we think are critical for the development of communicating civilizations.
+
+L41: Students will be able to:
+1.	Discuss the current efforts being made in the Search for Intelligent Life in the Universe.
+2.	Describe the efforts that have already been made in creating messages that could be understood by extra terrestrials, including the construction and content of these messages.
+3.	Explain why the efforts in detecting life and detecting intelligent life in the universe in the next few decades may be successful.
+
+
+

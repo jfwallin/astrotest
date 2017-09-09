@@ -1,0 +1,3154 @@
+NEW
+question=In {\bf Figure 1} at the back of the test, which direction will the stars near letter (d) move if you viewed the sky one hour later.
+answer=down
+answer=up
+answer=left
+answer=right
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+image=sunset.png
+objective=3.1
+
+NEW
+question=In {\bf Figure 1} at the back of the test, which letter is closest to the Polaris?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+NEW
+question=In {\bf Figure 1} at the back of the test, which letter is closest to the star Thuban?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=1
+chapter=0
+index=50
+difficulty=2
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+NEW
+question=The star Thuban:
+answer=is the brightest star in the northern sky.
+answer=located in the constellation of Cassiopeia
+answer=was located almost directly above the North Pole of Earth in 3000 BC.
+answer=the only star to show retrograde motion.
+key=2
+chapter=0
+index=50
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=C
+
+NEW
+question=In {\bf Figure 1} at the back of the test, which letter is closest to the constellation of Draco?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+NEW
+question=In {\bf Figure 1} at the back of the test, which letter is closest to the constellation of  Cassiopeia?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=4
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+
+NEW
+question=If you are looking East from {\bf Murfreesboro} and the Moon is near the horizon, over the next few hours, the Moon will move:
+answer=down and to the left
+answer=down and to the right
+answer=up and to the left
+answer=up and to the right
+key=3
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=y
+type=MC
+objective=3.2
+
+NEW
+question=If you are watching the Sun set in {\bf Murfreesboro}, the direction it travels over the Western horizon is
+answer=down and to the left
+answer=down and to the right
+answer=up and to the left
+answer=up and to the right
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=y
+type=MC
+objective=3.2
+
+
+NEW
+question=Late one night, you call up a friend who lives 200 mile directly North of {\bf Murfreesboro}.   You both look North and see the star Polaris.  Your friend will observe that Polaris is:
+answer=shifted directly down toward the horizon compared to Murfreesboro.
+answer=shifted directly up from the horizon compared to  Murfreesboro.
+answer=shifted up and to the right compared to Murfreesboro.
+answer=shifted down and to the left  compared to Murfreesboro.
+answer=shifted down and to the right compared to Murfreesboro.
+key=1
+chapter=0
+index=50
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=2.2
+
+NEW
+question=Late one night, you call up a friend who lives 200 miles directly West of {\bf Murfreesboro}.   You both go outside to look at the Moon.   You see the first quarter Moon is setting over the Western horizon.   Your friend will see that the Moon is:
+answer=shifted  up and to the right compared to Murfreesboro.
+answer=shifted down and to the left  compared to Murfreesboro.
+answer=shifted up and to the left compared to Murfreesboro.
+answer=not visible and below the horizon.
+answer=being eclipsed by the Earth.
+key=2
+chapter=0
+index=50
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=2.5
+
+NEW
+question=The principle contribution that Copernicus made in the Copernican revolution was:
+answer=Creating the Heliocentric model of the solar system.
+answer=Creating the Geocentric model of the solar system.
+answer=Making detailed observations using a telescope that added evidence to the Heliocentric model.
+answer=Making very careful and accurate measurements of planetary positions.
+answer=Developing a theory of gravity based on the three laws of planetary motion.
+key=0
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=The principle contribution that Galileo made in the Copernican revolution was:
+answer=Creating the Heliocentric model of the solar system.
+answer=Creating the Geocentric model of the solar system.
+answer=Making detailed observations using a telescope that added evidence to the Heliocentric model.
+answer=Making very careful and accurate measurements of planetary positions.
+answer=Developing a theory of gravity based on the three laws of planetary motion.
+key=2
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.4
+
+NEW
+question=The principle contribution that Tycho Brahe made in the Copernican revolution was:
+answer=Creating the Heliocentric model of the solar system.
+answer=Creating the Geocentric model of the solar system.
+answer=Making detailed observations using a telescope that added evidence to the Heliocentric model.
+answer=Making very careful and accurate measurements of planetary positions.
+answer=Developing a theory of gravity based on the three laws of planetary motion.
+key=3
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.4
+
+NEW
+question=The principle contribution that Newton made in the Copernican revolution was:
+answer=Creating the Heliocentric model of the solar system.
+answer=Creating the Geocentric model of the solar system.
+answer=Making detailed observations using a telescope that added evidence to the Heliocentric model.
+answer=Making very careful and accurate measurements of planetary positions.
+answer=Developing a theory of gravity based on the three laws of planetary motion.
+key=4
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=Since the force of gravity is strongest when a planet is closest to the Sun, planets:
+answer=Travel faster near the Sun.
+answer=Travel slower near the Sun.
+answer=Travel backwards in retrograde motion near the Sun.
+answer=Travel backwards counter-clockwise compared to the Polaris.
+key=0
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+
+NEW
+question=Galileo observed moons orbiting around Jupiter.    This observation challenged conventional Geocentric view of the solar system because the moons of Jupiter:
+answer=Were orbiting Jupiter, not Earth.
+answer=Were not perfect spheres.
+answer=Did not undergo retrograde motion.
+answer=Were unchanging.
+key=0
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.4
+
+
+NEW
+question=The easiest explanation for the changing phases and changing size of Venus as seen through a telescope is:
+answer=Retrograde motion.
+answer=Epicycles.
+answer=That Venus and Earth are both orbiting the Sun.
+answer=The Geocentric Model is correct.
+key=2
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.4
+
+NEW
+question=When Galileo saw craters on the Moon, it provided evidence that the Moon
+answer=Like the Earth.
+answer=Was a perfect celestial orb.
+answer=Was unchanging and perfect.
+answer=Had plate tectonics.
+key=0
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.4
+
+NEW
+question=Kepler discovered his laws of planetary motion using:
+answer=Observations from Galileo.
+answer=Observations from Tycho Brahe.
+answer=Observations from Copernicus.
+answer=Calculus and Newton's laws of motion.
+key=1
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=Kepler was the first person to suggest that planets
+answer=Revolve around the Sun.
+answer=Follow an elliptical path with the Sun at one focus.
+answer=Exhibit retrograde motion.
+answer=Have visible phases like the Moon.
+key=1
+chapter=50
+index=1
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=Using the Heliocentric model of the solar system, we now know that the retrograde motion of Mars is caused by:
+answer=Earth orbiting the Sun faster than Mars.
+answer=Earth orbiting the Sun slower than Mars.
+answer=Mars having an elliptical orbit.
+answer=Epicycles.
+key=0
+chapter=1
+index=50
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=We now know that the retrograde motion of Jupiter is caused by:
+answer=Earth orbiting the Sun faster than Jupiter.
+answer=Earth orbiting the Sun slower than Jupiter.
+answer=Jupiter having an elliptical orbit.
+answer=Epicycles.
+key=0
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=In the Geocentric Model of the solar system, the ancient Greeks believed that the retrograde motion of Mars was caused by:
+answer=Earth orbiting the Sun faster than Mars.
+answer=Earth orbiting the Sun slower than Mars.
+answer=Mars having an elliptical orbit.
+answer=Epicycles.
+key=3
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.2
+
+NEW
+question=According to Kepler's 2nd law, the orbits of planets:
+answer=sweep out equal areas in equal times.
+answer=follow circular paths.
+answer=follow epicycles.
+answer=Travel slower near the Sun.
+key=0
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=The size of the Arctic Polar ice cap has
+answer=Not changed in recorded history.
+answer=Been shrinking for the last 500 years.
+answer=Been rapidly shrinking over the last few decades.
+answer=Increased dramatically in both area and total volume in the last 10 years.
+key=2
+chapter=5
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=9999
+
+NEW
+question=One of the first papers on Global warming was published in
+answer=1896
+answer=1963
+answer=1983
+answer=2001
+key=0
+chapter=5
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=9999
+
+NEW
+question=What would happen if we had no Greenhouse effect?
+answer=The Earth would cool dramatically and the oceans would freeze.
+answer=The composition of the atmosphere would change.
+answer=The ice caps would melt.
+answer=Global warming would still occur.
+key=0
+chapter=5
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=9999
+
+NEW
+question=Earthquakes can be used to probe the structure inside the Earth.
+answer=True
+answer=False
+key=0
+chapter=5
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=TF
+objective=9999
+
+NEW
+question=The polar ice cap in September has dropped to 1/4 of its volume compared to its size in September only a decade ago.
+answer=True
+answer=False
+key=0
+chapter=5
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=TF
+objective=9999
+
+NEW
+question=Mountains on the moon are caused by plate tectonics.
+answer=True
+answer=False
+key=1
+chapter=5
+index=50
+difficulty=2
+source=testbank
+scramble=N
+type=TF
+objective=9999
+
+NEW
+question=Maria are found mostly on the far side of the Moon.
+answer=True
+answer=False
+key=1
+chapter=5
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=TF
+objective=9999
+
+NEW
+question=Lunar eclipses happen more often than solar eclipses because the Earth is much larger in diameter than the Moon.
+answer=True
+answer=False
+key=0
+chapter=5
+index=1
+difficulty=3
+source=testbank
+scramble=N
+type=TF
+objective=9999
+
+NEW
+question=Most of the geological features on the Moon are much older than those on the Earth.
+answer=True
+answer=False
+key=0
+chapter=5
+index=50
+difficulty=2
+source=testbank
+scramble=N
+type=TF
+objective=9999
+
+NEW
+question=Erosion of geological features happens much faster on the Moon than on the Earth.
+answer=True
+answer=False
+key=1
+chapter=5
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=TF
+objective=9999
+
+NEW
+question=Global warming is caused by the depletion  of the ozone layer.
+answer=True
+answer=False
+key=1
+chapter=5
+index=50
+difficulty=2
+source=testbank
+scramble=N
+type=TF
+objective=9999
+
+NEW
+question=From Earth, we can't observe the far side of the Moon.
+answer=True
+answer=False
+key=0
+chapter=5
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=TF
+objective=9999
+
+NEW
+question=In {\bf Figure 2} at the back of the test, which location most closely corresponds to the Waxing Crescent moon?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=4
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=4.5
+
+NEW
+question=In {\bf Figure 2} at the back of the test, which location most closely corresponds to the First Quarter moon?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=3
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=4.5
+
+
+NEW
+question=In {\bf Figure 2} at the back of the test, which location most closely corresponds to the Full moon?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=2
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=4.5
+
+
+NEW
+question=In {\bf Figure 2} at the back of the test, the image on the right most closely corresponds to point \rule{10mm}{0.4pt} on the phase diagram.
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=1
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=4.5
+
+
+NEW
+question=If the Moon was larger in diameter, the number of solar
+eclipses would
+answer=Increase
+answer=Decrease
+answer=Remain the Same
+key=0
+chapter=1
+index=50
+difficulty=2
+source=testbank
+scramble=N
+type=MC
+objective=4.6
+
+
+NEW
+question=The first person to suggest that planets revolved around the Sun was:
+answer=Copernicus
+answer=Galileo
+answer=Tycho Brahe
+answer=Kepler
+answer=Newton
+key=0
+chapter=50
+index=1
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+
+
+NEW
+question=The first person observe the phases of Venus was:
+answer=Copernicus
+answer=Galileo
+answer=Tycho Brahe
+answer=Kepler
+answer=Newton
+key=1
+chapter=50
+index=1
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=5.4
+
+
+NEW
+question=The person who is did the best naked eye observations of planetary positions was:
+answer=Copernicus
+answer=Galileo
+answer=Tycho Brahe
+answer=Kepler
+answer=Newton
+key=2
+chapter=50
+index=1
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=5.4
+
+
+NEW
+question=The person suggested planets follow elliptical orbits with the Sun at one focus was:
+answer=Copernicus
+answer=Galileo
+answer=Tycho Brahe
+answer=Kepler
+answer=Newton
+key=3
+chapter=50
+index=1
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=The person explained that elliptical orbits in terms of physical laws was:
+answer=Copernicus
+answer=Galileo
+answer=Tycho Brahe
+answer=Kepler
+answer=Newton
+key=4
+chapter=50
+index=1
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=In figure 1 at the back of the test, which letter is closest to the constellation of Cepheus?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=4
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+
+NEW
+question=In figure 1 at the back of the test, which letter is closest to the constellation of Ursa Major?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+
+NEW
+question=In figure 1 at the back of the test, which letter is closest to the constellation of Ursa Minor?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+NEW
+question=If you are on the equator and see the Sun to the East on the Horizon, it will rise
+answer=straight up above the horizon.
+answer=up and to the right.
+answer=up and to the left.
+answer=straight down toward the horizon.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=3.2
+
+
+NEW
+question=Circumpolar stars
+answer=Always rise in the East.
+answer=Always set in the West.
+answer=Never rise or set.
+answer=Are seen toward the south in Murfreesboro.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=2.6
+
+
+NEW
+question=The seasonal changes are caused by the:
+answer=Apparent daily motion of the Sun.
+answer=Apparent annual motion of the Sun.
+answer=Lunar cycle.
+answer=Difference in the Sidereal and the Solar day.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=3.6
+
+
+NEW
+question=The main reason winter is cooler than summer is:
+answer=Earth is farther from the Sun in winter.
+answer=There are fewer hours of Sunlight in winter.
+answer=The angle of the Sun is lower spreading the same amount of sunlight over a larger area.
+answer=The Sun is smaller in winter than in Summer.
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=3.6
+
+
+NEW
+question=When was the first paper the predicted industrial activity would increase the average global temperature published?
+answer=1983
+answer=1963
+answer=1931
+answer=1896
+answer=1724
+key=3
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=9999
+
+
+
+NEW
+question=What would happen if we had no Greenhouse effect?
+answer=The Earth would cool dramatically and the oceans would freeze.
+answer=The amount of oxygen and nitrogen in the atmosphere would rapidly drop
+answer=The ice caps would melt.
+answer=Global warming would still occur.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=9999
+
+
+
+NEW
+question=The geologic features we see on the Earth are mainly created by:
+answer=Cratering and Erosion
+answer=Erosion and Plate Tectonics.
+answer=Cratering and Plate Tectonic.
+answer=Impact Craters and Ancient Volcanic flows.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=9999
+
+
+
+NEW
+question=The geologic features we see on the Moon are mainly created by:
+answer=Cratering and Erosion
+answer=Erosion and Plate   Tectonics.
+answer=Cratering and Plate Tectonics.
+answer=Impact Craters and Ancient Volcanic flows.
+key=3
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=9999
+
+
+
+NEW
+question=The hole in the Ozone near the South Pole was mainly caused by:
+answer=Global Warming.
+answer=Plate Tectonics.
+answer=Carbon Dioxide
+answer=Chlorofluorocarbons from spray cans.
+key=3
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=9999
+
+
+
+NEW
+question=The Moon goes through its phases because:
+answer=The Earth blocks sunlight from reaching the Moon.
+answer=The Moon is an orbiting, spherical object being lit by a distant light source (the Sun).
+answer=Exactly half of the Moon is composed of very dark rocks.
+answer=The Earth's atmosphere refracts light causing the Moon to have phases.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=4.4
+
+
+
+NEW
+question=First quarter moon happens when there is
+answer=A straight line between the Sun, Moon, and Earth
+answer=A straight line between the Sun, Earth and Moon
+answer=A 90 degree angle between the Sun, Earth and Moon.
+answer=When only 1/4 of the moon is lit by the Sun.
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=4.5
+
+
+NEW
+question=A full moon happens when there is
+answer=A straight line between the Sun, Moon, and Earth
+answer=A straight line between the Sun, Earth and Moon
+answer=A 90 degree angle between the Sun, Earth and Moon.
+answer=When only 1/4 of the moon is lit by the Sun.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=4.4
+
+NEW
+question=A new moon happens when there is
+answer=A straight line between the Sun, Moon, and Earth
+answer=A straight line between the Sun, Earth and Moon
+answer=A 90 degree angle between the Sun, Earth and Moon.
+answer=When only 1/4 of the moon is lit by the Sun.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=4.4
+
+NEW
+question=Looking North from {\bf Murfreesboro}, stars appear to rotate counter-clockwise around the star Polaris.
+answer=True
+answer=False
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.1
+
+NEW
+question=The next solar eclipse is scheduled to occur in 2159.
+answer=True
+answer=False
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=4.6
+
+NEW
+question=The reason we don't have a solar eclipse every month is because:
+answer=The Moon is much closer than the Sun.
+answer=The orbit of the Moon is not perfectly aligned with the Earth's orbit around the Sun.
+answer=The Sun is too bright to be eclipsed every month.
+answer=The giant space goat that eats the Sun during a solar eclipse takes a long summer vacation.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=4.6
+
+NEW
+question=In the original Copernican Heliocentric model, planets
+answer=Followed perfect circles with epicycles.
+answer=Followed elliptical orbits.
+answer=Orbited the Earth.
+answer=Orbited the Moon.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=In the Modern Heliocentric model created by Kepler, planets
+answer=Followed perfect circles with epicycles.
+answer=Followed elliptical orbits.
+answer=Orbited the Earth.
+answer=Orbited the Moon.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=The surface of the Moon is much \rule{10mm}{0.4pt}  than Earth's surface.
+answer=wetter
+answer=younger
+answer=older
+answer=more eroded
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=9999
+
+NEW
+question=Because the moon's rotation is tidally locked with its revolution so we only see one side of the moon.
+answer=True
+answer=False
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=9999
+
+NEW
+question=The next Moon phase after Waxing Gibbous is the
+answer=New Moon
+answer=First Quarter Moon
+answer=Full Moon
+answer=Waning Gibbous
+answer=Third Quarter Moon
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=4.5
+
+NEW
+question=During Winter, the Sun is higher in the sky and but visible for fewer hours than in Summer.
+answer=True
+answer=False
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=3.6
+
+NEW
+question=If the Sun is at one focus of the Earth’s elliptical orbit, what is located at the other focus?
+answer=Nothing
+answer=Apehelion
+answer=Perihelion
+answer=The semi-major axes
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=Planets move faster when they are close to the Sun because
+answer=Gravity is stronger near the Sun.
+answer=Gravity is weaker near the Sun.
+answer=Solar radiation is stronger near the Sun.
+answer=Orbits follow epicycles.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.3
+
+NEW
+question=Solar eclipses can only happen at:
+answer=Full Moon.
+answer=First Quarter Moon.
+answer=Waxing Crescent.
+answer=New Moon.
+key=3
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=4.6
+
+NEW
+question=Lunar eclipses can only happen at:
+answer=Full Moon.
+answer=First Quarter Moon.
+answer=Waxing Crescent.
+answer=New Moon.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=4.6
+
+NEW
+question=Latitude and longitude measure:
+answer=Position on Earth.
+answer=Position of objects in the sky measured from the perspective of a particular observer.
+answer=Positions of objects in the sky which are the same for all observers.
+answer=Positions on the Moon.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=1.1
+
+NEW
+question=Altitude and azimuth measure:
+answer=Position on Earth.
+answer=Position of objects in the sky measured from the perspective of a particular observer.
+answer=Positions of objects in the sky which are the same for all observers.
+answer=Positions on the Moon.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=1.4
+
+NEW
+question=Right ascension and declination measure:
+answer=Position on Earth.
+answer=Position of objects in the sky measured from the perspective of a particular observer.
+answer=Positions of objects in the sky which are the same for all observers.
+answer=Positions on the Moon.
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=1.4
+
+NEW
+question=Maria are
+answer=ancient oceans on the Moon.
+answer=ancient lava flows on the Moon.
+answer=mountain on the Moon.
+answer=river valley's on the Moon.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=9999
+
+NEW
+question=Waxing phases occur when the Moon is traveling between
+answer=Full Moon and New Moon.
+answer=First Quarter and Third Quarter.
+answer=Third Quarter to New.
+answer=New Moon to Full Moon.
+key=3
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=4.5
+
+NEW
+question=Waning phases occur when the Moon is traveling between
+answer=Full Moon and New Moon.
+answer=First Quarter and Third Quarter.
+answer=Third Quarter to New.
+answer=New Moon to Full Moon.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=4.5
+
+NEW
+question=In the Geocentric model of the solar system, the daily motion of the Sun is caused by:
+answer=The rotation of the Earth.
+answer=The rotation of the Sun.
+answer=The revolution of the Earth around the Sun.
+answer=The revolution of the Sun around the Earth.
+key=3
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.2
+
+NEW
+question=The Moon orbits at a distance about \underline{\hspace{0.5in}} times larger than the diameter of Earth.
+answer=two (2)
+answer=five (5)
+answer=thirty (30)
+answer=one thousand (1000)
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=9999
+
+NEW
+question=We now know that daily motion in the sky is caused by the \underline{\hspace{0.5in}}.
+answer=Rotation of the Earth.
+answer=Revolution of the Earth around the Sun.
+answer=Revolution of the Sun around the Earth.
+answer=Precession of the equinoxes.
+key=0
+index=50
+chapter=0
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=2.4
+
+NEW
+question=We now know that the annual motion in the sky is caused by \underline{\hspace{0.5in}}.
+answer=Rotation of the Earth.
+answer=Revolution of the Earth around the Sun.
+answer=Revolution of the Sun around the Earth
+answer=Precession of the equinoxes.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=3.5
+
+NEW
+question=In {\bf Figure 1} at the back of the test, which direction will the stars near letter (e) move if you viewed the sky one hour later.
+answer=down and to the left
+answer=down and to the right
+answer=up and to the left
+answer=up and to the right
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=3.1
+
+NEW
+question=In {\bf Figure 2}, the position of the Sun is shown for January 28 at about noon as viewed from {\bf Murfreesboro}.  The stars are shown even though they wouldn't normally be visible.   In this image, the Sun is in the constellation of Capricornus.  Which {\bf constellation} will the Sun be in two hours?
+answer=Position A - Aquarius
+answer=Position B - Capricornus
+answer=Position C - Sagittarius
+answer=Position D - Aquila
+answer=Position E - Piscis Austrinus
+key=1
+index=50
+chapter=0
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.5
+
+NEW
+question=In {\bf Figure 2}, the position of the Sun is shown for January 28 at about noon as viewed from {\bf Murfreesboro}.  The stars are shown even though they wouldn't normally be visible.  Which constellation will the Sun be in two weeks from now?
+answer=Position A - Aquarius
+answer=Position B - Capricornus
+answer=Position C - Sagittarius
+answer=Position D - Aquila
+answer=Position E - Piscis Austrinus
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.5
+
+NEW
+question=the position of the Sun is shown for January 28 at about noon as viewed from {\bf Murfreesboro}.  The stars are shown even though they wouldn't normally be visible. where was the Sun be two weeks ago?
+answer=Position A - Aquarius
+answer=Position B - Capricornus
+answer=Position C - Sagittarius
+answer=Position D - Aquila
+answer=Position E - Piscius Austrinus
+key=2
+index=50
+chapter=0
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.5
+
+NEW
+question=In figure 2, the position of the Sun is shown for January 28 at about noon as viewed from {\bf Murfreesboro}.  The stars are shown even though they wouldn't normally be visible.  Which location will be the first to set below the horizon in Figure 2?
+answer=Position A - Aquarius
+answer=Position B - Capricornus
+answer=Position C - Sagittarius
+answer=Position D - Aquila
+answer=Position E - Piscius Austrinus
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.5
+
+NEW
+question=For this question, assume that {\bf Figure 3} shows the position of the Sun in {\bf Murfreesboro} about an hour before Sunset.   Which letter is closest to where the Sun will be in one hour?
+answer=Position A
+answer=Position B
+answer=Position C
+answer=Position D
+answer=Position E
+key=4
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=2.4
+
+NEW
+question={\bf For this question only,} assume that {\bf Figure 3} shows the position of the Sun in {\bf Murfreesboro} about an hour before Sunset.   Which letter is closest to where the Sun was one hour ago?
+answer=Position A
+answer=Position B
+answer=Position C
+answer=Position D
+answer=Position E
+key=0
+index=50
+chapter=0
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=2.4
+
+NEW
+question=For this question, assume that {\bf Figure 3} shows the position of the Sun at the {\bf Equator} about an hour before Sunset.   Which letter is closest to where the Sun will be in one hour?
+answer=Position A
+answer=Position B
+answer=Position C
+answer=Position D
+answer=Position E
+key=3
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.2
+
+NEW
+question=For this question, assume that {\bf Figure 3} shows the position of the Sun at the {\bf Equator} about an hour before Sunset.   Which letter is closest to where the Sun was one hour ago?
+answer=Position A
+answer=Position B
+answer=Position C
+answer=Position D
+answer=Position E
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.2
+
+NEW
+question={\bf For this question only,} assume that {\bf Figure 3} shows the position of the Sun in {\bf Murfreesboro} about an hour after Sunrise.   Which letter is closest to where the Sun was one hour ago?
+answer=Position A
+answer=Position B
+answer=Position C
+answer=Position D
+answer=Position E
+key=2
+index=50
+chapter=0
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=2.5
+
+NEW
+question={\bf For this question only,} assume that {\bf Figure 3} shows the position of the Sun at the {\bf Equator} about an hour after Sunrise.   Which letter is closest to where the Sun will be in one hour?
+answer=Position A
+answer=Position B
+answer=Position C
+answer=Position D
+answer=Position E
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.2
+
+NEW
+question=For this question, assume that {\bf Figure 3} shows the position of the Sun at the {\bf Equator} about an hour after Sunrise.   Which letter is closest to where the Sun was \underline{\bf one hour ago}?
+answer=Position A
+answer=Position B
+answer=Position C
+answer=Position D
+answer=Position E
+key=3
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.2
+
+NEW
+question=In {\bf Figure 1} at the back of the test, which direction will the stars near letter (A) move if you viewed the sky one hour later.
+answer=up and to the left
+answer=up and to the right
+answer=down and to the left
+answer=down and to the right
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.1
+
+NEW
+question=A sidereal day is:
+answer=shorter than a solar day because it measures time using the stars, not the sun.
+answer=longer than a solar day because it measures time using the stars, not the sun.
+answer=shorter than a solar day because it measures time using the sun, not the stars.
+answer=longer than a solar day because it measures time using the sun, not the stars.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=4.1
+
+NEW
+question=If you look at the sky from the same location exactly one sidereal day later, you will find that:
+answer=the Sun is in the same position in the sky.
+answer=the stars are in the same positions in the sky.
+answer=the Moon is in the same position in the sky.
+answer=everything has changed positions in the sky.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=4.1
+
+NEW
+question=What fraction of the {\bf \underline{entire}} surface of the Moon is lit by the Sun during its Waxing Crescent phase?
+answer=10\%
+answer=25\%
+answer=50\%
+answer=100\%
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=4.4
+
+NEW
+question=Over one day, the Sun's position has
+answer={\bf large} changes in altitude \& azimuth because of daily motion but only {\bf small} changes in right ascension \& declination because of annual motion.
+answer={\bf small} changes in  altitude \& azimuth because of daily motion  but {\bf large} changes in  right ascension \& declination because of annual motion.
+answer={\bf large} changes in both  altitude \& azimuth and in right ascension \& declination because of daily motion.
+answer={\bf small} changes in both  altitude \& azimuth and in right ascension \& declination because of annual motion.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.5
+
+NEW
+question=Over one day, the Sun's positions changes because of the daily rotation of the Earth and the annual revolution of Earth in its orbit around the Sun.
+Because of the Sun's daily and annual motions,  over a single day the Sun has:
+answer= {\bf large} changes in its altitude \& azimuth but only {\bf only small} changes in its right ascension \& declination.
+answer= {\bf only small} changes in  its altitude \& azimuth but {\bf large} changes in its right ascension \& declination.
+answer= {\bf large} changes in both its altitude \& azimuth and in right ascension \& declination.
+answer={\bf small} changes in both  its altitude \& azimuth and in right ascension \& declination.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.5
+
+NEW
+question=The North Celestial Pole is:
+answer=Just another name for the North Pole.
+answer=The location in the sky where you find Polaris.
+answer=The location directly above the Earth's Equator.
+answer=One of the places the Sun travels over its yearly journey across the celestial sphere.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.3
+
+NEW
+question=Epicycles were created by the Ancient Greeks to explain the:
+answer=Daily motion of the stars.
+answer=Annual motion of the Sun.
+answer=Monthly motion and phases of the Moon.
+answer=Retrograde motion of the planets.
+key=3
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=5.2
+
+NEW
+question=How often do we have a Full Moon?
+answer=Every day/night.
+answer=Once per week.
+answer=Once per month.
+answer=Once per year
+key=2
+chapter=1
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=4.4
+
+NEW
+question=The  Celestial Equator is:
+answer=Just another name for the North Pole.
+answer=The location in the sky where you find Polaris.
+answer=The places in the sky that are  directly above the Earth's Equator.
+answer=One of the places the Sun travels over its yearly journey across the celestial sphere.
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=3.3
+
+NEW
+question=How many constellations cover surface of the Celestial Sphere?
+answer=45
+answer=88
+answer=120
+answer=No one knows.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=1.2
+
+NEW
+question=In {\bf Figure 1}, over the next few hours the constellation near the letter {\bf A} will move:
+answer=down and to the left
+answer=down and to the right
+answer=up and to the left
+answer=up and to the right
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=y
+type=MC
+objective=3.1
+
+
+
+NEW
+question=The closest terrestrial analog to hours of right ascension is angle of longitude.
+answer=True
+answer=False
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=1.4
+ 
+NEW
+question=In the scientific method, it is not necessary to test your theory.
+answer=True
+answer=False
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=9999
+ 
+NEW
+question=When the Moon is directly opposite the Sun in the sky, its phase is...
+answer=New Moon
+answer=First Quarter
+answer=Full Moon
+answer=Third Quarter
+key=2
+chapter=0
+index=50
+difficulty=1
+scramble=y
+type=MC
+objective=4.5
+ 
+NEW
+question=You note that a particular star is directly overhead. It will be directly overhead again in:
+answer=One solar day.
+answer=One sidereal day.
+answer=One month.
+answer=One solar year.
+answer=One tropical year.
+key=1
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=MC
+objective=4.1
+ 
+NEW
+question=Into how many constellations is the celestial sphere divided?
+answer=12
+answer=45
+answer=88
+answer=120
+key=2
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=MC
+objective=3.3
+ 
+NEW
+question=The stars in a constellation are physically close to one another.
+answer=True
+answer=False
+key=1
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=1.2
+ 
+NEW
+question=The solar day is longer than the sidereal day.
+answer=True
+answer=False
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=4.1
+ 
+NEW
+question=The seasons are caused by the precession of Earth's axis.
+answer=True
+answer=False
+key=1
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=MC
+type=TF
+objective=4.3
+ 
+NEW
+question=From the horizon to the observer's zenith is an angle of...
+answer=Azimuth
+answer=Declination
+answer=Right Ascension
+answer=Altitude
+answer=Latitude
+key=4
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+type=TF
+objective=1.4
+ 
+NEW
+question=The 26,000 year cycle that changes the poles and equinoxes is called...
+answer=Precession
+answer=Nutation
+answer=Polar flux transport
+answer=A tropical year.
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.3
+ 
+NEW
+question=The twelve constellations the solar system bodies move through are the...
+answer=Zodiac
+answer=Twelve.
+answer=Circumpolar Constellations.
+answer=The Celestial Equator.
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.2
+ 
+NEW
+question=The parallax shift for all stars is very small.
+answer=True
+answer=False
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=9999
+ 
+NEW
+question=The celestial sphere is divided into 88 modern constellations.
+answer=True
+answer=False
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=1.2
+ 
+NEW
+question=Right ascension in the sky is very similar to latitude on the Earth.
+answer=True
+answer=False
+key=1
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=9999
+ 
+NEW
+question=In the summer we observe different constellations than in the winter. This is because \underline{\hspace{0.5in}}
+answer=Precession of the Equinoxes.
+answer=Daily Motion.
+answer=Lunar Motion.
+answer=Planetary Motion.
+answer=Annual Motion.
+key=4
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=3.5
+ 
+NEW
+question=Night and day have approximately equal length at what time or times of the year?
+answer=The Summer Solstice
+answer=The Winter Solstice
+answer=The Spring and Autumnal Equinoxes
+answer=The Harvest Moon
+key=2
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.2
+ 
+NEW
+question=What physical property of Earth gives rise to the seasons?
+answer=n/a
+answer=d
+answer=d
+answer=d
+answer=d
+key=1
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=9999
+ 
+NEW
+question=The star Thuban in Draco...
+answer=Dup
+answer=d
+answer=d
+answer=d
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=9999
+ 
+NEW
+question=The interval from new Moon to first quarter is about a(n)...
+answer=One day
+answer=One week
+answer=One Month
+answer=One year
+key=1
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=MC
+objective=4.5
+ 
+ 
+NEW
+question=Latitude and right ascension are coordinate systems used to find objects on the celestial sphere.
+answer=True
+answer=False
+key=1
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=1.4
+ 
+NEW
+question=In the sky, declination is measured in degrees north or south of the celestial equator.
+answer=True
+answer=False
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=1.4
+ 
+NEW
+question=Constellations are close clusters of stars, all at about the same distance from the Sun.
+answer=True
+answer=False
+key=1
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=1.2
+  
+NEW
+question=The sidereal day is determined by the Earth's rotation with respect to the stars.
+answer=True
+answer=False
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=4.1
+ 
+NEW
+question=The fact that the Earth has moved along its orbit in the time it took to rotate once is the reason for...
+answer=the difference between solar days and sidereal days.
+answer=the Precession of the Equinoxes.
+answer=the Ecliptic.
+answer=the lunar motion.
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=4.1
+ 
+NEW
+question=Polaris will not always be the pole star because of:
+answer=Precession.
+answer=Nutation.
+answer=Sidereal time.
+answer=Lunar Motion.
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.3
+ 
+NEW
+question=In the summer we observe different constellations than in the winter. This is because of \underline{\hspace{0.5in}}
+answer=Annual Motion.
+answer=Daily Motion.
+answer=Lunar Motion.
+answer=Planetary Motion.
+answer=Precession.
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.2
+ 
+NEW
+question=In the Northern Hemisphere, it is colder in the winter than in the summer because \underline{\hspace{0.5in}}
+answer=We are closer to the Sun in summer.
+answer=Days are much longer in winter.
+answer=The angle of the sunlight is less direct.
+key=2
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.6
+ 
+
+NEW
+question=From Earth, the Sun and Moon have about the same angular diameter.
+answer=n/a
+answer=n
+answer=d
+answer=w
+answer=a
+key=0
+chapter=0
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=9999
+ 
+NEW
+question=What is true of the Moon's orbital and rotational periods?
+answer=The orbital period is greatest at full moon.
+answer=The rotational period varies with the Moon's phase.
+answer=They are equal.
+answer=The orbital period is longer.
+answer=The rotational period is longer.
+key=2
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=9999
+ 
+NEW
+question=The Moon's near side always faces Earth due to...
+answer=Earth's magnetic field.
+answer=Earth's tidal force.
+answer=the Sun's gravity.
+answer=the solar wind.
+answer=conservation of angular momentum in the solar nebula.
+key=1
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=9999
+ 
+NEW
+question=Tycho Brahe's contribution to Kepler's Laws of Planetary Motion were...
+answer=the correct explanation of lunar phases.
+answer=his detailed and accurate observations of the planets' positions.
+answer=a mathematical explanation of epicycles.
+answer=a precise lunar calendar.
+answer=his observations of Jupiter's moons.
+key=1
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.4
+ 
+NEW
+question=Kepler's first law worked, where Copernicus' original heliocentric model failed, because Kepler described the orbits as...
+answer=complex, with epicycles to account for retrograde motions.
+answer=around the Sun, not the earth.
+answer=much larger than Copernicus had envisioned.
+answer=elliptical, not circular.
+answer=being on equants instead of epicycles.
+key=3
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.3
+ 
+NEW
+question=The place in a planet's orbit that is closest to the Sun is called...
+answer=crossing the ecliptic.
+answer=vernal equinox
+answer=perihelion
+answer=aphelion
+answer=None of these; a planet's distance from the Sun never changes.
+key=2
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=MC
+objective=5.3
+ 
+NEW
+question=The force of gravity varies with...
+answer=the product of the two masses.
+answer=the inverse of the distance separating the two bodies.
+answer=the inverse square of the distance separating the two bodies.
+answer=both product of the two masses and inverse of the distance separating the two bodies.
+answer=both product of the two masses and inverse square of the distance separating the two bodies.
+key=4
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=MC
+objective=5.3
+ 
+NEW
+question=How much stronger is the gravitational pull of the Sun on Earth, at 1 AU, than it is on Saturn at 10 AU?
+answer=5×
+answer=10×
+answer=25×
+answer=100×
+answer=250×
+key=3
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=5.3
+ 
+NEW
+question=If the distance between two asteroids is doubled, the gravitational force they exert on each other will...
+answer=be one fourth as great.
+answer=be four times greater.
+answer=also be doubled.
+answer=be half as great.
+answer=will be 1/16 as great.
+key=0
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=MC
+objective=5.3
+ 
+NEW
+question=A planet (or comet) will speed up as it approaches the Sun...
+answer=True
+answer=False
+key=0
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=5.3
+ 
+NEW
+question=According to Kepler's third law, if you know the planet's orbital period, you can find its average distance from the Sun.
+answer=True
+answer=False
+key=0
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=5.3
+ 
+NEW
+question=The smallest high tides occur when the Moon phase is...
+answer=waxing or waning crescent.
+answer=waxing or waning gibbous.
+answer=first or third quarter.
+answer=full.
+answer=new.
+key=2
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=MC
+objective=9999
+ 
+NEW
+question=From full moon to third quarter moon takes about a week.
+answer=True
+answer=False
+key=0
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=4.5
+ 
+NEW
+question=Eighteen days past new moon, the Moon's phase is waning gibbous.
+answer=True
+answer=False
+key=0
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=4.5
+ 
+NEW
+question=In an annular eclipse,...
+answer=the Moon appears as a thin, bright ring.
+answer=the Sun is totally blocked by the Moon.
+answer=the Sun is partially blocked by the Earth.
+answer=the Sun appears as a thin, bright ring.
+answer=the Moon is totally blocked by the Earth.
+key=3
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.6
+ 
+NEW
+question=If the Moon appears half lit, and is almost overhead about 6:00 AM, its phase is...
+answer=first quarter.
+answer=full.
+answer=waxing crescent.
+answer=third quarter.
+answer=waning crescent.
+key=3
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.5
+ 
+NEW
+question=A solar eclipse can only happen during a...
+answer=first quarter moon.
+answer=new moon.
+answer=full moon.
+answer=solstice.
+answer=perihelion passage of the Sun.
+key=1
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.6
+ 
+NEW
+question=What will occur when the full moon is on the ecliptic?
+answer=an annular lunar eclipse
+answer=a partial lunar eclipse if the Moon is at perigee
+answer=a total solar eclipse
+answer=a partial solar eclipse
+answer=a total lunar eclipse
+key=1
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.6
+ 
+NEW
+question=The interval from new Moon to first quarter is about a(n)...
+answer=year.
+answer=month.
+answer=week.
+answer=day.
+answer=hour.
+key=2
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=4.5
+ 
+NEW
+question=How did Copernicus' model explain the retrograde motions of the planets?
+answer= Planets orbit in small circles called epicycles, and the epicycle is orbiting the Earth in a larger orbit called a deferent. This caused the planet to have a "looping" motion as seen from Earth.
+answer= It is an illusion caused by the lunar tides pulling on the Earth and making planets appear to go backwards. It is the Earth that is briefly moving backwards.
+answer= Planets do not have perfectly circular orbits, and when planets are unusually close to the Sun, they move backwards for a brief time.
+answer= Planets orbit the Sun at different speeds. When an inner, faster-moving planet "passes" a slower outer one, the slower planet appears to move backwards.
+key=3
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.2
+ 
+NEW
+question=How did Ptolemy's model explain the retrograde motions of the planets?
+How did Ptolemy's model explain the retrograde motions of the planets?
+answer= Planets orbit in small circles called epicycles, and the epicycle is orbiting the Earth in a larger orbit called a deferent. This caused the planet to have a "looping" motion as seen from Earth.
+answer= Planets do not have perfectly circular orbits, and when planets are unusually close to the Sun, they move backwards for a brief time.
+answer= Planets orbit the Sun at different speeds. When an inner, faster-moving planet "passes" a slower outer one, the slower planet appears to move backwards.
+answer= It is an illusion caused by the lunar tides pulling on the Earth and making planets appear to go backwards. It is the Earth that is briefly moving backwards.
+key=0
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.2
+ 
+NEW
+question=Copernicus proposed a heliocentric model for the solar system primarily because \underline{\hspace{0.5in}}
+answer=it allowed him to replace epicycles with ellipses
+answer=it was much simpler than the Ptolemaic model
+answer=it enabled him to explain retrograde motion
+answer=it explained the phases of Venus
+key=2
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=9999
+ 
+NEW
+question=Copernicus believed the Earth was the center of all celestial motion.
+answer=True
+answer=False
+key=1
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=5.3
+ 
+NEW
+question=According to Copernicus, retrograde motion for Venus must occur around...
+answer=greatest elongation, when the planet is farthest from the Sun.
+answer=superior conjunction, when the planet is on the far side of the Sun.
+answer=inferior conjunction, when it passes between us and the Sun.
+answer=quadrature, when the planet is 90 degrees away from the Sun.
+answer=opposition, when the planet lies opposite the Sun in the sky.
+key=4
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.3
+ 
+NEW
+question=Which of the following was NOT one of the discoveries made by Galileo?
+answer=The shape of a planet's orbit is an ellipse.
+answer=The Sun has spots and rotates.
+answer=The Moon has mountains, valleys, and craters.
+answer=Jupiter has moons.
+key=0
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.4
+ 
+NEW
+question=Galileo's observations of the phases of Venus  \underline{\hspace{0.5in}}.
+answer=convinced his contemporaries that Copernicus' model of the solar system was wrong
+answer=supported the geocentric model of the solar system
+answer=showed that Venus had to orbit the Sun and not the Earth
+answer=convinced his contemporaries of the correctness of Copernicus' model of the solar system
+key=2
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.4
+ 
+NEW
+question=Which of these was NOT seen telescopically by Galileo?
+answer=sunspots
+answer=stellar parallax
+answer=Venus' phase cycle
+answer=craters and mare on the Moon
+answer=Four moons around Jupiter
+key=1
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.4
+ 
+NEW
+question=Galileo found the rotation period of the Sun was approximately...
+answer=three months.
+answer=a day.
+answer=a month.
+answer=a year.
+answer=a week.
+key=2
+chapter=1
+index=50
+difficulty=1
+type=MC
+objective=5.4
+ 
+NEW
+question=Kepler found the orbits of planets are ellipses, not circles.
+answer=True
+answer=False
+key=0
+chapter=1
+index=50
+difficulty=1
+scramble=N
+type=TF
+objective=5.3
+ 
+NEW
+question=According to Newton, planets orbit in ellipses with what at the two foci?
+answer=The planet and its moon
+answer=The center of mass and nothing
+answer=The Sun and nothing
+answer=The Sun and the center of mass
+key=2
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.3
+ 
+NEW
+question=In what way did Newton improve Kepler's laws?
+answer=He determined the astronomical unit.
+answer=He discovered the variation in orbital speed.
+answer=He discovered the dependence on mass in the third law.
+answer=He found that orbits were not always ellipses.
+answer=According to Newton, planets orbit in ellipses with what at the two foci?
+key=3
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.3
+ 
+NEW
+question=What was the greatest contribution of Tycho Brahe to astronomy?
+answer=He determined that the planets orbit the Sun in elliptical orbits.
+answer=He amassed a large number of precise measurements of stellar and planetary positions in the sky.
+answer=He developed a model of the solar system in which the Sun was at the center.
+answer=He proposed some simple laws that govern the motion of the planets and other objects.
+answer=He first used the telescope to make extensive astronomical observations.
+key=1
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=5.4
+ 
+NEW
+question=An Astronomical Unit (AU) is \underline{\hspace{0.5in}} 
+answer=the mass of Earth
+answer=the time it takes for Earth to orbit the Sun once
+answer=the mass of the Sun
+answer=the distance the Earth travels in its orbit in one year.
+answer=the average distance between the Sun and Earth
+key=4
+chapter=1
+index=50
+difficulty=1
+scramble=Y
+type=MC
+objective=9999
+ 
+
+NEW
+question=Latitude and longitude measure:
+answer=Positions on Earth
+answer=Positions in the sky as seen locally
+answer=Positions in the sky which are the same for all observers
+key=0
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=1.1
+
+NEW
+question=Altitude and azimuth measure:
+answer=Positions on Earth
+answer=Positions in the sky as seen locally
+answer=Positions in the sky which are the same for all observers
+key=1
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=1.4
+
+NEW
+question=Right ascension and declination measure:
+answer=Positions on Earth
+answer=Positions in the sky as seen locally
+answer=Positions in the sky which are the same for all observers
+key=2
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=1.4
+
+NEW
+question=As viewed from above the North Pole, which direction does the Earth rotate?
+answer=Clockwise
+answer=Counter-clockwise
+answer=Left
+answer=Right
+key=1
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=2.3
+
+NEW
+question=Where will the Sun be in two hours?
+answer=A.
+answer=B
+answer=C
+answer=D
+answer=E
+key=4
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=2.4
+
+NEW
+question=Where will the Sun be at 7 am on December 28?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=2
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=2.4
+
+NEW
+question=Where will the Sun be at 9am on December 28?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=3
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=2.4
+
+NEW
+question=Which star will Ursa Major appear to circle every day?
+answer=Thuban
+answer=The Sun
+answer=Polaris
+answer=Mizar/Alcor
+key=2
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=2.6
+
+NEW
+question=Which direction will Ursa Major appear to move in the next hour?
+answer=Up and to the left
+answer=Up and to the right
+answer=Down and to the left
+answer=Down and to the right
+key=3
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=3.1
+
+NEW
+question=Which direction will the Sun appear to move in the next hour?
+answer=Up and to the left
+answer=Up and to the right
+answer=Down and to the left
+answer=Down and to the right
+key=1
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=2.4
+
+NEW
+question=Which star will the Sun appear to circle around every day?
+answer=Thuban
+answer=The Sun
+answer=Polaris
+answer=Mizar/Alcor
+key=2
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=2.6
+
+NEW
+question=Which direction are we looking?
+answer=North
+answer=East
+answer=South
+answer=West
+key=0
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=3.4
+
+NEW
+question=Over a few hours, which direction will the stars move in this region of the sky?
+answer=Up
+answer=Down
+answer=Clockwise around Polaris
+answer=Counter-Clockwise around Polaris
+key=2
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=3.4
+
+NEW
+question=This picture of stars setting in the West was taken:
+answer=At the Equator
+answer=At the North Pole
+answer=At Mid-Latitudes in the Northern Hemisphere
+key=0
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=3.4
+
+NEW
+question=This picture of stars setting in the West was taken:
+answer=At the Equator
+answer=At the North Pole
+answer=At Mid-Latitudes in the Northern Hemisphere
+key=0
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=3.4
+
+NEW
+question=What is the main reason is it colder in winter than in summer?
+answer=Fewer hours of daylight
+answer=Sunlight is less direct
+answer=We are further away from the Sun
+answer=Odin is Angry
+key=1
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=3.6
+
+NEW
+question=Which constellation is the Sun in on December 1
+answer=Leo
+answer=Scorpius
+answer=Sagittarius
+answer=Ophiuchus
+key=3
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.3
+
+NEW
+question=What fraction of the entire Earth’s surface is lit by sunlight at any given time?
+answer=10%
+answer=25%
+answer=50%
+answer=100%
+key=2
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.4
+
+NEW
+question=What fraction of the entire Moon’s surface is lit by sunlight at any given time?
+answer=10%
+answer=25%
+answer=50%
+answer=100%
+key=2
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.4
+
+NEW
+question=Which describes the alignment for a FULL moon?
+answer=Moon, Sun, Earth
+answer=Sun, Moon, Earth
+answer=Sun, Earth, Moon
+answer=None of these
+key=2
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.5
+
+NEW
+question=Which describes the alignment for a NEW moon?
+answer=Moon, Sun, Earth
+answer=Sun, Moon, Earth
+answer=Sun, Earth, Moon
+answer=None of these
+key=1
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.5
+
+NEW
+question=Waxing phases occur when:
+answer=phases are going from full moon to new moon
+answer=phases are going from new moon to full moon
+answer=None of the above
+key=1
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.5
+
+NEW
+question=How long does it take for the Moon to orbit the Earth?
+answer=one hour
+answer=one day
+answer=one week
+answer=one month
+answer=one year
+key=3
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.5
+
+NEW
+question=When can a total solar eclipse take place?
+answer=New Moon
+answer=First Quarter
+answer=Full Moon
+answer=Waxing Crescent
+key=0
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.6
+
+NEW
+question=Why do phases of the moon occur?
+answer=The Earth’s shadow blocks part of the light hitting the moon.
+answer=Half the moon is illuminated, but we see it from different angles depending on where it is in its orbit.
+answer=Clouds block light coming from the moon.
+answer=A giant space goat eats the moon every month.
+key=1
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.6
+
+NEW
+question=In Figure 2, which letter shows the location of the Waxing Crescent Moon?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=4
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.5
+
+NEW
+question=How long does it take to go from the New Moon to the Third Quarter?
+answer=One week
+answer=Two weeks
+answer=Three weeks
+answer=Four weeks
+key=2
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.5
+
+NEW
+question=How does the geocentric model account for day and night?
+answer=The Sun rotated
+answer=The Earth revolved around the Sun
+answer=The Sun revolved around the Earth 
+answer=The Geocentric Model could not account for day and night.
+key=2
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=5.2
+
+NEW
+question=Imagine your camera is pointing at Polaris the North Star.  If you leave the shutter open for 6 hours, what will the photo look like?
+answer=The stars will make straight lines in the photos.
+answer=The stars will make complete circles in the photos.
+answer=The stars will make half circles in the photos.
+answer=The stars will make quarter circles in the photos.
+answer=The stars will remain point-like dots of light.
+key=3
+chapter=0
+index=50
+difficulty=1
+source=pretest
+scramble=N
+type=MC
+objective=3.4
+
+NEW
+question=During the full moon phase, how much of the Moon’s {\bf total} surface is being illuminated by sunlight?
+answer=none
+answer=less than half
+answer=half
+answer=more than half
+answer=all
+key=2
+chapter=0
+index=50
+difficulty=1
+source=pretest
+scramble=N
+type=MC
+objective=4.4
+
+NEW
+question=Which of the following best describes the cause for the seasons here on Earth?
+answer=The distance between Earth and the Sun changes during the year.
+answer=More sunlight reaches Earth during some times of the year than others.
+answer=Earth’s rotational axis is tilted with respect to the plane of Earth’s orbit around the Sun.
+answer=The Sun gives off different amounts of sunlight during different times of the year.
+answer=Some times of the year Earth orbits the Sun more slowly than other times of the year.  
+key=2
+chapter=0
+index=50
+difficulty=1
+source=pretest
+scramble=N
+type=MC
+objective=3.6
+
+NEW
+question=Kepler’s second law says ``a line joining a planet and the Sun sweeps out equal areas in equal amounts of time.'' Which of the following statements means nearly the same thing?
+answer=	Planets move fastest when they are closest to the Sun.
+answer=Planets travel farther in a given time when they are closer to the Sun.
+answer=Planets move fastest when they are farthest from the Sun. 
+answer=Both a and b above.
+key=3
+chapter=0
+index=50
+difficulty=1
+source=pretest
+scramble=N
+type=MC
+objective=5.3
+
+NEW
+question=How often does the “New Moon” phase occur?
+answer=every day/ night	
+answer=once a week
+answer=once every two weeks
+answer=once a month
+answer=once a year 
+key=3
+chapter=0
+index=50
+difficulty=1
+source=pretest
+scramble=N
+type=MC
+objective=4.6
+
+NEW
+question=How long does it take to go from the First Quarter to the Full Moon?
+answer=One week
+answer=Two weeks
+answer=Three weeks
+answer=Four weeks
+key=0
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.5
+
+NEW
+question=Which letter shows the location of the Waning Gibbous Moon?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=1
+chapter=0
+index=50
+difficulty=1
+source=clicker
+scramble=N
+type=MC
+objective=4.5
+
+NEW
+question=The winter is colder than summer because:
+answer=Earth is farther from the Sun during the winter.
+answer=Snow reflects the sunlight into space, cooling the Earth.
+answer=The Sun is lower in the sky during the winter and days are shorter.
+answer=The Sun is smaller in winter than in Summer.
+answer=The Earth's oceans periodically absorb more heat during winter, cooling the Earth.
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=3.6
+
+NEW
+question=A star's altitude is:
+answer=The distance it is above the Earth's surface.
+answer=The distance between the star and the Sun.
+answer=The angle between the star and the Celestial equator.
+answer=The angle compass heading of a star measured by an observer.
+answer=The angle between the star and the horizon of the observer.
+key=4
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=1.4
+
+NEW
+question=A star's azimuth is:
+answer=The distance it is above the Earth's surface.
+answer=The distance between the star and the Sun.
+answer=The angle bewteen the star and the Celestial equator.
+answer=The angle compass heading of a star measured by an observer.
+answer=The angle between the star and the horizon of the observer.
+key=3
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=1.4
+
+NEW
+question=A star's declination is:
+answer=The distance it is above the Earth's surface.
+answer=The distance between the star and the Sun.
+answer=The angle bewteen the star and the Celestial equator.
+answer=The angle compass heading of a star measured by an observer.
+answer=The angle between the star and the horizon of the observer.
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=1.4
+
+NEW
+question=Late one night, you call up a friend who lives 200 mile directly South of {\bf Murfreesboro}.   You both look North and see the star Polaris.  Your friend will observe that Polaris is:
+answer=shifted directly down toward the horizon compared to Murfreesboro.
+answer=shifted directly up from the horizon compared to  Murfreesboro.
+answer=shifted up and to the right compared to Murfreesboro.
+answer=shifted down and to the left  compared to Murfreesboro.
+answer=shifted down and to the right compared to Murfreesboro.
+key=0
+chapter=0
+index=50
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=2.2
+
+NEW
+question=In the {\bf Heliocentric} model of the solar system, the daily motion of the Sun is caused by:
+answer=The rotation of the Earth.
+answer=The rotation of the Sun.
+answer=The revolution of the Earth around the Sun.
+answer=The revolution of the Sun around the Earth.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.2
+
+NEW
+question=In the {\bf Heliocentric} model of the solar system, the daily motion of the Sun is caused by:
+answer=The rotation of the Earth.
+answer=The rotation of the Sun.
+answer=The revolution of the Earth around the Sun.
+answer=The revolution of the Sun around the Earth.
+key=0
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=Y
+type=MC
+objective=5.2
+
+
+
