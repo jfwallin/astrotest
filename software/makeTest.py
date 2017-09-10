@@ -43,9 +43,9 @@ questionGroup = ["True/False Questions","Multiple-Choice Questions","Fill-in-the
 
 
 
-import qb
+import questionblock as qb
 import chapterData
-import cTest
+import createTest as cTest
 
 
 
@@ -69,8 +69,9 @@ class reformat:
 
       qfile = "all_mc_new.txt"
       qlist1 = []
+      sectionData = []
       f.readMCQuestionFile(qfile, clist)
-      f.processMCQuestionFile(clist, qlist1)
+      f.processMCQuestionFile(clist, qlist1, sectionData)
   
       qdata = []
       for i in range(0,len(qlist1)):
@@ -78,14 +79,18 @@ class reformat:
 
       self.readQList(qdata)
       
+      print sectionData
 
+
+
+
+# block
       # make the final list of questions
       ct = 0
       qlist2 = []
       masterKey = []
       masterIndex = []
       masterCount = []
-
       masterIndex = []
       for i in range(0, len(qlist1)):
         if (qdata[i] == 1):
@@ -101,25 +106,28 @@ class reformat:
       qlistAux = []
       clistAux = []
 
-      aux = 0
-      # if there are addiitonal non-testbank questions, you can add them in an aux_mc.txt file.
-      # every question from this file will be included in the test along with the questions
-      # selected from the test bank
-      if (aux == 1):
-        fAux = chapterData.chapterFile()
+      # aux = 0
+      # # if there are addiitonal non-testbank questions, you can add them in an aux_mc.txt file.
+      # # every question from this file will be included in the test along with the questions
+      # # selected from the test bank
+      # if (aux == 1):
+      #   fAux = chapterData.chapterFile()
 
-        qfileAux = "aux_mc.txt"
-        qlistAux1 = []
-        f.readMCQuestionFile(qfileAux, clistAux)
-        f.processMCQuestionFile(clistAux, qlistAux1)
+      #   qfileAux = "aux_mc.txt"
+      #   qlistAux1 = []
+      #   f.readMCQuestionFile(qfileAux, clistAux)
+      #   f.processMCQuestionFile(clistAux, qlistAux1)
 
-        for jj in range(0, len(qlistAux1)):
-          qaux = qlistAux1[jj]
-          qlist2.append(qaux)
-          qlist2[ct].globalIndex = qaux
-          qlist2[ct].localIndex = ct + 1
-          ct = ct + 1
+      #   for jj in range(0, len(qlistAux1)):
+      #     qaux = qlistAux1[jj]
+      #     qlist2.append(qaux)
+      #     qlist2[ct].globalIndex = qaux
+      #     qlist2[ct].localIndex = ct + 1
+      #     ct = ct + 1
 
+
+
+# block
       # set the number of the answer and the original answers before processing
       for q in qlist2:
         q.nanswer = int(q.nanswer)
@@ -137,7 +145,22 @@ class reformat:
         t.startTest(tf)
         t.writeTestHeader(tf, i)
         t.startQuestions(tf)
-        t.writeTest(tf,qlist2)
+# block
+#        t.writeTest(tf,qlist2)
+
+        for j in range(len(sectionData)):
+          istart = sectionData[j][1]
+          iend = sectionData[j][2]
+
+          tf.write("\\pagebreak \n")
+          tf.write("\\begin{minipage}{\\textwidth} \n")
+          tf.write("\\begin{minipage}{\\textwidth} \n")
+          tf.write("\\bigskip SECTION = " + str(j) + "\n")
+          tf.write("\\end{minipage}\n")
+          tf.write("\\end{minipage}\n")
+          #t.writeTest(tf,qlist1[istart:iend])
+          t.writeTest(tf,qlist2)
+
         t.endQuestions(tf)
 
         # question analysis

@@ -3150,5 +3150,128 @@ scramble=Y
 type=MC
 objective=5.2
 
+SECTION
+SIMAGE="biteme.jpg"
+STEXT="This image shows the sky facing North as seen from Murfreesboro during January."
+STITLE="Constellation Map"
 
 
+NEW
+question=In {\bf Figure 1} at the back of the test, which letter is closest to the Polaris?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+
+NEW
+question=In {\bf Figure 1} at the back of the test, which letter is closest to the star Thuban?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=1
+chapter=0
+index=50
+difficulty=2
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+NEW
+question=The star Thuban:
+answer=is the brightest star in the northern sky.
+answer=located in the constellation of Cassiopeia
+answer=was located almost directly above the North Pole of Earth in 3000 BC.
+answer=the only star to show retrograde motion.
+key=2
+chapter=0
+index=50
+difficulty=2
+source=testbank
+scramble=Y
+type=MC
+objective=C
+
+NEW
+question=In {\bf Figure 1} at the back of the test, which letter is closest to the constellation of Draco?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=1
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+NEW
+question=In {\bf Figure 1} at the back of the test, which letter is closest to the constellation of  Cassiopeia?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=4
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+
+
+SECTION
+SIMAGE="biteme2.jpg"
+STEXT="This OTYEHR image shows the sky facing North as seen from Murfreesboro during January."
+STITLE="Constellation of OTTERS  Map"
+
+NEW
+question=In {\bf Figure 221} at the back of the test, which letter is closest to the Polaris?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=2
+chapter=0
+index=50
+difficulty=1
+source=testbank
+scramble=N
+type=MC
+objective=C
+
+
+NEW
+question=In {\bf Figure 221} at the back of the test, which letter is closest to the star Thuban?
+answer=A
+answer=B
+answer=C
+answer=D
+answer=E
+key=1
+chapter=0
+index=50
+difficulty=2
+source=testbank
+scramble=N
+type=MC
+objective=C

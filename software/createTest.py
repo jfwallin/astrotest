@@ -99,8 +99,7 @@ class createTest:
 
 
 
-  def writeInstructorQuestions(self,ft, qlist):
-
+  def writeInstructorQuestions(self,ft, qlist, offset):
 
     for ii in range(len(qlist)):
       qlist[ii].index = ii + 1
@@ -108,7 +107,7 @@ class createTest:
     qt2 = sorted(qlist, key=lambda x: x.objective)
     for q in qt2:
        print q.question       
-       q.latexCompactFullPrint(ft)
+       q.latexCompactFullPrint(ft, offset)
        print "---"
 
 

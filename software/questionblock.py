@@ -31,6 +31,7 @@ class questionBlock:
     self.objective = 0
     self.globalIndex = -1
     self.localIndex = -1
+    self.sectionNumber = 0
     self.ilist = []
     self.answerOrder = []
     self.hasImage = 0
@@ -275,7 +276,7 @@ class questionBlock:
     
 
 
-  def latexCompactFullPrint(self, f):
+  def latexCompactFullPrint(self, f, offset):
 
 
     if self.hasImage == 0:
@@ -347,13 +348,14 @@ class questionBlock:
 #    f.write("Answer  =" + str(self.nanswer)+ "\n")
     f.write("Objective = "+self.objective + "\n")
 #    f.write("Chapter = " +self.chapter + "\n")
-    f.write("Index = " + str(self.index) + "\n")
+    f.write("Index = " + str(self.index+offset) + "\n")
 #    f.write("Section = " + self.sectionRef + "\n")
     f.write("Source = " + str(self.source)  +"\n")
 #    f.write("Difficulty = " + str(self.diff)  +"\n")
     f.write("Scramble = " +self.scramble+ "\n")
 #    f.write("Selected = " + str(self.selected)+ "\n")
     f.write("Type = "+ self.type + "\n")
+    f.write("SECTIONNUMBER=" + str(self.sectionNumber) + "\n")
 #    f.write("Objective = " + str(self.objective) + "\n")
 #    f.write("GlobalIndex = "+ str(self.globalIndex) + "\n")
 
@@ -361,9 +363,10 @@ class questionBlock:
     f.write("\\end{minipage}\n")
     if self.hasImage == 1:
       f.write("\\hspace{0.5in}\n")
-      f.write("\\includegraphics[width=2in,height=1.5in,valign=c]{"+self.imageName+"}\n")
+      f.write("\\includegraphics[width=2in,height=1.5in,valign=c]{./images/"+self.imageName+"}\n")
     f.write("\\end{minipage}\n")
     f.write("\\vskip 0.20in\n\n")
+
 
 
 
@@ -431,9 +434,12 @@ class questionBlock:
       f.write("\n")
     f.write("\\end{minipage}\n")
 
+
+    f.write("SECTIONNUMBER=" + str(self.sectionNumber) + "\n")
+
     if self.hasImage == 1:
       f.write("\\hspace{0.5in}\n")
-      f.write("\\includegraphics[width=2in,height=1.5in,valign=c]{"+self.imageName+"}\n")
+      f.write("\\includegraphics[width=2in,height=1.5in,valign=c]{./images/"+self.imageName+"}\n")
     f.write("\\end{minipage}\n")
 
 

@@ -40,9 +40,9 @@ questionGroup = ["True/False Questions","Multiple-Choice Questions","Fill-in-the
 
 
 
-import qb
+import questionblock as qb
 import chapterData
-import cTest
+import createTest as cTest
 
 
 
@@ -65,8 +65,9 @@ class reformat:
 
       qfile = "all_mc_new.txt"
       qlist1 = []
+      sectionData = []
       f.readMCQuestionFile(qfile, clist)
-      f.processMCQuestionFile(clist, qlist1)
+      f.processMCQuestionFile(clist, qlist1, sectionData)
       print len(qlist1), len(clist)
 
 
@@ -78,12 +79,22 @@ class reformat:
       t = cTest.createTest()
 
       nversions = 1
-      tf = open("questionMaster.tex","w")
+      tf = open("questionMaster1.tex","w")
       t.startTest(tf)
       for i in range(1, nversions + 1):
         t.writeTestHeader(tf, i)
         t.startQuestions(tf)
-        t.writeInstructorQuestions(tf,qlist1)
+        for j in range(len(sectionData)):
+          istart = sectionData[j][1]
+          iend = sectionData[j][2]
+
+          tf.write("\\pagebreak \n")
+          tf.write("\\begin{minipage}{\\textwidth} \n")
+          tf.write("\\begin{minipage}{\\textwidth} \n")
+          tf.write("\\bigskip SECTION = " + str(j) + "\n")
+          tf.write("\\end{minipage}\n")
+          tf.write("\\end{minipage}\n")
+          t.writeInstructorQuestions(tf,qlist1[istart:iend], istart)
         t.endQuestions(tf)
 
         t.startQuestions(tf)
@@ -120,4 +131,4 @@ class reformat:
 
 if __name__ == '__main__':
   reformat()
-
+  print "DONE"

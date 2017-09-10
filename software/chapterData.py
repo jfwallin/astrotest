@@ -1,6 +1,6 @@
 import string
 import re
-import qb
+import questionblock as qb
 
 keyString = "Answer:"
 KEY = 100
@@ -48,10 +48,6 @@ class chapterFile:
       clist[i] = re.sub("_______","\\underline{\\hspace{0.5in}}",clist[i])
       clist[i] = re.sub("______","\\underline{\\hspace{0.5in}}",clist[i])
       clist[i] = re.sub("_____","\\underline{\\hspace{0.5in}}",clist[i])
-     # clist[i] = re.sub("________","\\underline\{\\hspace\{0.5in\}\}",clist[i])
-     # clist[i] = re.sub("________","\\underline\{\\hspace\{0.5in\}\}",clist[i])
-     # clist[i] = re.sub("________","\\underline\{\\hspace\{0.5in\}\}",clist[i])
-        
 
     # find the question group markings
     for i in range(0, len(clist)):
@@ -164,36 +160,87 @@ class chapterFile:
       clist.append(line)
     f1.close()        
 
-  def processMCQuestionFile(self, clist, qlist):
+
+  def readSection(self, clist, istart, iend):
+    stext = ""
+    simage = ""
+    stitle = ""
+    for i in range(istart, iend):
+      line = clist[i]
+      if string.find(line, "SIMAGE") == 0:
+        simage = line.split("=")[1]
+
+      if string.find(line, "STEXT") == 0:
+        stext = line.split("=")[1]
+      
+      if string.find(line, "STITLE") == 0:
+        stitle = line.split("=")[1]
+      
+    return [stitle, stext, simage]
+
+
+
+  def processMCQuestionFile(self, clist, qlist, sectionData):
 
     BREAK = 1000
+    SECTION = 2000
     iNotate = []
+
     # find the question breaks
     for i in range(0, len(clist)):
       line = clist[i]
       iNotate.append(0)
       if (string.find(line,"NEW") == 0):
         iNotate[i] = BREAK
+      if (string.find(line,"SECTION") == 0):
+        iNotate[i] = SECTION
 
+    
     iNotate.append(1000)
+    iNotate.append(2000)
+
+    sstart = []
+    send = []
+    sstart.append(0)
+
+    for i in range(0, len(clist)):
+      if (iNotate[i] == SECTION):
+        sstart.append(i)
+        send.append(i)
+    send.append(len(clist))
 
     bstart = []
     bend = []
+    bsection = []
     bstart.append(0)
-    for i in range(0, len(clist)):
-      if (iNotate[i] == BREAK):
-        bstart.append(i)
-        bend.append(i)
+    questionNumber = 0
+    squestionstart = []
+    squestionend = []
+    for j in range(len(sstart)):
+      squestionstart.append(questionNumber)
+      for i in range(sstart[j], send[j]):
+        if (iNotate[i] == BREAK):
+          bstart.append(i)
+          bend.append(i)
+          bsection.append(j)
+          questionNumber = questionNumber + 1
+      squestionend.append(questionNumber)
     bend.append(len(clist))
+    bsection.append(j)
+ 
+    # get the common information from the sections
+    print "number of sections ", len(sstart), sstart, send
+    for i in range(len(sstart)):
+      sectionData.append([self.readSection(clist, sstart[i], send[i]), squestionstart[i], squestionend[i]])
 
-    
 
     for j in range(1, len(bstart)):
       q = qb.questionBlock()
       q.readMCBlock(clist, bstart[j],bend[j])
+      q.sectionNumber = bsection[j]
       qlist.append(q)
       
-
+#      print j, bsection[j], q.question, q.sectionNumber
 
 
 
